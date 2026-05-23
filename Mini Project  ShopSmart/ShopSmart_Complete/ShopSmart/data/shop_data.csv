@@ -1,0 +1,801 @@
+date,product_id,product_name,category,price,units_sold,customer_rating,sales
+2024-01-01,P1012,Vitamin C Serum,Beauty,33.72,2.0,4.3,67.44
+2024-01-08,P1030,Hair Mask,Beauty,50.48,5.0,3.8,252.4
+2024-01-24,P1006,Cotton T-Shirt,Clothing,21.16,5.0,3.3,105.8
+2024-01-19,P1002,Smart Watch,Electronics,161.7,5.0,4.7,808.5
+2024-01-01,P1004,Yoga Mat,Sports,109.84,12.0,3.4,1318.08
+2024-01-08,P1004,Laptop Stand,Electronics,98.2,2.0,3.7,196.4
+2024-01-18,P1005,Python for Data Science,Books,28.08,6.0,3.9,168.48
+2024-01-08,P1014,Cap,Clothing,68.32,3.0,3.9,204.96
+2024-01-26,P1020,Dumbbell Set,Sports,42.83,18.0,3.6,770.94
+2024-01-25,P1007,LEGO Set,Toys,17.77,15.0,4.6,266.55
+2024-01-23,P1021,Puzzle 1000pc,Toys,43.98,3.0,4.1,131.94
+2024-01-09,P1024,Foam Roller,Sports,64.96,4.0,4.3,259.84
+2024-01-25,P1008,Yoga Pants,Clothing,22.9,12.0,4.3,274.8
+2024-01-03,P1006,Coffee Maker,Home & Kitchen,162.86,4.0,3.9,651.44
+2024-01-12,P1008,Resistance Bands,Sports,65.2,3.0,3.8,195.6
+2024-01-20,P1042,Art Kit,Toys,43.72,4.0,4.9,174.88
+2024-01-24,P1003,Air Fryer,Home & Kitchen,62.0,5.0,3.8,310.0
+2024-01-30,P1008,Resistance Bands,Sports,62.82,15.0,4.6,942.3
+2024-01-18,P1008,Resistance Bands,Sports,78.82,7.0,5.0,551.74
+2024-01-19,P1018,Toaster,Home & Kitchen,99.5,12.0,3.4,1194.0
+2024-01-02,P1004,Denim Jacket,Clothing,52.37,10.0,4.0,523.7
+2024-01-25,P1024,Sunscreen SPF50,Beauty,17.96,3.0,4.6,53.88
+2024-01-28,P1006,Coffee Maker,Home & Kitchen,41.53,14.0,4.4,581.42
+2024-01-13,P1004,Denim Jacket,Clothing,28.98,17.0,3.6,492.66
+2024-01-21,P1024,Storage Bins,Home & Kitchen,108.77,10.0,3.6,1087.7
+2024-01-06,P1042,Art Kit,Toys,56.96,4.0,4.4,227.84
+2024-01-07,P1018,Toaster,Home & Kitchen,168.17,11.0,4.1,1849.87
+2024-01-23,P1030,Hair Mask,Beauty,51.51,14.0,4.1,721.14
+2024-01-20,P1012,Vitamin C Serum,Beauty,32.6,11.0,3.7,358.6
+2024-01-18,P1018,Lip Balm,Beauty,65.07,19.0,4.7,1236.33
+2024-01-06,P1024,Sunscreen SPF50,Beauty,33.79,6.0,3.6,202.74
+2024-01-09,P1028,Gym Bag,Sports,100.13,4.0,3.9,400.52
+2024-01-22,P1024,Sunscreen SPF50,Beauty,9.82,22.0,5.0,216.04
+2024-01-08,P1003,Air Fryer,Home & Kitchen,146.21,5.0,3.1,731.05
+2024-01-26,P1007,LEGO Set,Toys,21.26,,,191.34
+2024-01-09,P1021,Dish Rack,Home & Kitchen,73.74,6.0,5.0,442.44
+2024-01-30,P1004,Laptop Stand,Electronics,167.9,6.0,3.8,1007.4
+2024-01-07,P1030,Thinking Fast and Slow,Books,8.98,11.0,4.2,98.78
+2024-01-13,P1048,Toner,Beauty,7.35,6.0,3.7,44.1
+2024-01-05,P1048,Toner,Beauty,57.56,15.0,4.3,863.4
+2024-01-08,P1009,Knife Set,Home & Kitchen,44.28,16.0,4.5,708.48
+2024-01-24,P1030,Hair Mask,Beauty,6.8,10.0,4.0,68.0
+2024-01-29,P1035,Zero to One,Books,26.29,7.0,3.7,184.03
+2024-01-12,P1035,Zero to One,Books,11.11,3.0,4.2,33.33
+2024-01-17,P1006,Cotton T-Shirt,Clothing,88.93,5.0,3.3,444.65
+2024-01-25,P1008,Resistance Bands,Sports,95.04,1.0,5.0,95.04
+2024-01-05,P1002,Smart Watch,Electronics,135.84,7.0,3.9,950.88
+2024-01-26,P1018,Lip Balm,Beauty,27.14,3.0,4.4,81.42
+2024-01-20,P1042,Eye Cream,Beauty,71.94,11.0,4.1,791.34
+2024-01-13,P1007,Keyboard,Electronics,238.84,6.0,4.7,1433.04
+2024-01-17,P1040,Rich Dad Poor Dad,Books,44.05,2.0,4.3,88.1
+2024-01-22,P1003,Air Fryer,Home & Kitchen,165.3,8.0,5.0,1322.4
+2024-01-22,P1012,Vitamin C Serum,Beauty,49.97,14.0,4.0,699.58
+2024-01-25,P1025,The Lean Startup,Books,24.67,3.0,4.4,74.01
+2024-01-04,P1036,Body Lotion,Beauty,55.7,20.0,4.2,1114.0
+2024-01-06,P1021,Dish Rack,Home & Kitchen,107.55,5.0,4.7,537.75
+2024-01-24,P1004,Yoga Mat,Sports,23.27,3.0,5.0,69.81
+2024-01-17,P1030,Hair Mask,Beauty,63.99,24.0,3.3,1535.76
+2024-01-17,P1021,Puzzle 1000pc,Toys,70.23,3.0,4.1,210.69
+2024-01-27,P1005,USB-C Hub,Electronics,167.52,3.0,4.1,502.56
+2024-01-05,P1024,Sunscreen SPF50,Beauty,53.42,4.0,3.5,213.68
+2024-01-18,P1009,Knife Set,Home & Kitchen,21.74,,,43.48
+2024-01-20,P1007,LEGO Set,Toys,39.95,5.0,3.4,199.75
+2024-01-01,P1024,Storage Bins,Home & Kitchen,159.14,8.0,3.7,1273.12
+2024-01-29,P1006,Webcam,Electronics,108.36,21.0,3.9,2275.56
+2024-01-08,P1035,Stuffed Animal,Toys,12.38,11.0,3.5,136.18
+2024-01-29,P1004,Laptop Stand,Electronics,49.11,12.0,2.6,589.32
+2024-01-03,P1010,Atomic Habits,Books,8.74,4.0,3.7,34.96
+2024-01-27,P1048,Toner,Beauty,64.4,4.0,4.1,257.6
+2024-01-05,P1003,Bluetooth Speaker,Electronics,88.85,15.0,3.3,1332.75
+2024-01-18,P1048,Toner,Beauty,13.53,3.0,3.7,40.59
+2024-01-17,P1010,Hoodie,Clothing,81.74,8.0,3.6,653.92
+2024-01-07,P1049,Science Kit,Toys,53.46,7.0,4.6,374.22
+2024-01-23,P1020,Clean Code,Books,12.25,2.0,4.6,24.5
+2024-01-22,P1021,Dish Rack,Home & Kitchen,102.88,6.0,3.9,617.28
+2024-01-15,P1036,Body Lotion,Beauty,62.26,8.0,5.0,498.08
+2024-01-04,P1040,Rich Dad Poor Dad,Books,10.46,8.0,5.0,83.68
+2024-01-03,P1008,Yoga Pants,Clothing,38.71,7.0,4.7,270.97
+2024-01-19,P1003,Air Fryer,Home & Kitchen,163.43,13.0,2.8,2124.59
+2024-01-19,P1020,Clean Code,Books,17.19,13.0,4.3,223.47
+2024-01-03,P1002,Running Shorts,Clothing,18.85,10.0,3.8,188.5
+2024-01-08,P1006,Face Moisturizer,Beauty,59.28,11.0,4.7,652.08
+2024-01-28,P1001,Wireless Headphones,Electronics,65.86,7.0,4.6,461.02
+2024-01-17,P1006,Coffee Maker,Home & Kitchen,158.9,11.0,4.5,1747.9
+2024-01-22,P1010,Hoodie,Clothing,88.79,13.0,4.4,1154.27
+2024-01-18,P1016,Jump Rope,Sports,97.92,9.0,2.7,881.28
+2024-01-08,P1016,Socks,Clothing,69.0,2.0,3.9,138.0
+2024-01-26,P1056,Card Game,Toys,42.39,8.0,4.0,339.12
+2024-01-04,P1016,Jump Rope,Sports,17.56,5.0,4.2,87.8
+2024-01-12,P1007,Keyboard,Electronics,67.9,6.0,3.8,407.4
+2024-01-15,P1028,Gym Bag,Sports,70.68,6.0,3.9,424.08
+2024-01-22,P1007,LEGO Set,Toys,20.15,8.0,4.9,161.2
+2024-01-02,P1012,Vitamin C Serum,Beauty,55.72,3.0,4.4,167.16
+2024-01-26,P1024,Foam Roller,Sports,88.89,5.0,4.3,444.45
+2024-01-08,P1014,Board Game,Toys,15.56,11.0,3.3,171.16
+2024-01-18,P1008,Yoga Pants,Clothing,33.56,11.0,4.1,369.16
+2024-01-14,P1012,Water Bottle,Sports,38.09,15.0,4.5,571.35
+2024-01-15,P1010,Hoodie,Clothing,11.47,3.0,4.4,34.41
+2024-01-15,P1004,Denim Jacket,Clothing,10.88,7.0,4.7,76.16
+2024-01-02,P1014,Board Game,Toys,20.81,6.0,4.2,124.86
+2024-01-03,P1006,Face Moisturizer,Beauty,47.91,22.0,3.9,1054.02
+2024-01-06,P1028,Remote Car,Toys,12.03,10.0,3.2,120.3
+2024-01-16,P1032,Cycling Gloves,Sports,35.6,9.0,4.4,320.4
+2024-01-29,P1014,Cap,Clothing,53.35,9.0,4.5,480.15
+2024-01-13,P1003,Bluetooth Speaker,Electronics,183.75,14.0,4.2,2572.5
+2024-01-09,P1007,Keyboard,Electronics,42.31,2.0,4.9,84.62
+2024-01-10,P1056,Card Game,Toys,45.07,4.0,4.7,180.28
+2024-01-05,P1032,Cycling Gloves,Sports,105.45,14.0,4.1,1476.3
+2024-01-07,P1010,Hoodie,Clothing,38.37,1.0,3.5,38.37
+2024-01-24,P1001,Wireless Headphones,Electronics,29.02,9.0,4.2,261.18
+2024-01-02,P1003,Air Fryer,Home & Kitchen,116.21,,,1162.1
+2024-01-17,P1040,Rich Dad Poor Dad,Books,16.16,12.0,3.7,193.92
+2024-01-02,P1021,Puzzle 1000pc,Toys,24.55,18.0,4.7,441.9
+2024-01-28,P1010,Atomic Habits,Books,40.88,7.0,4.8,286.16
+2024-01-20,P1004,Denim Jacket,Clothing,27.61,8.0,4.2,220.88
+2024-01-13,P1004,Laptop Stand,Electronics,222.69,13.0,4.8,2894.97
+2024-01-19,P1004,Laptop Stand,Electronics,100.4,3.0,4.4,301.2
+2024-01-20,P1005,Python for Data Science,Books,18.62,10.0,4.1,186.2
+2024-01-22,P1007,Keyboard,Electronics,234.71,5.0,4.2,1173.55
+2024-01-30,P1030,Thinking Fast and Slow,Books,9.69,7.0,3.8,67.83
+2024-01-22,P1012,Cutting Board,Home & Kitchen,179.53,4.0,2.8,718.12
+2024-01-08,P1036,Body Lotion,Beauty,56.36,2.0,4.6,112.72
+2024-01-05,P1021,Dish Rack,Home & Kitchen,170.7,16.0,3.5,2731.2
+2024-01-15,P1030,Hair Mask,Beauty,23.02,4.0,5.0,92.08
+2024-01-01,P1006,Coffee Maker,Home & Kitchen,143.14,8.0,4.4,1145.12
+2024-01-03,P1008,Resistance Bands,Sports,22.02,3.0,5.0,66.06
+2024-01-17,P1020,Clean Code,Books,17.95,1.0,4.7,17.95
+2024-01-30,P1009,Knife Set,Home & Kitchen,26.95,5.0,2.6,134.75
+2024-01-29,P1006,Coffee Maker,Home & Kitchen,94.28,6.0,3.9,565.68
+2024-01-10,P1012,Sneakers,Clothing,36.12,2.0,4.1,72.24
+2024-01-27,P1016,Socks,Clothing,41.75,7.0,3.5,292.25
+2024-01-20,P1025,The Lean Startup,Books,42.64,11.0,3.7,469.04
+2024-01-22,P1007,LEGO Set,Toys,44.22,6.0,4.2,265.32
+2024-01-30,P1035,Stuffed Animal,Toys,21.84,10.0,4.8,218.4
+2024-01-29,P1012,Vitamin C Serum,Beauty,25.07,15.0,4.0,376.05
+2024-01-04,P1010,Hoodie,Clothing,37.67,5.0,5.0,188.35
+2024-01-09,P1003,Bluetooth Speaker,Electronics,158.28,10.0,4.9,1582.8
+2024-01-23,P1012,Cutting Board,Home & Kitchen,164.99,6.0,3.7,989.94
+2024-01-22,P1012,Cutting Board,Home & Kitchen,99.94,10.0,3.1,999.4
+2024-01-17,P1030,Hair Mask,Beauty,30.06,3.0,4.3,90.18
+2024-01-29,P1020,Dumbbell Set,Sports,27.01,2.0,4.3,54.02
+2024-01-03,P1007,LEGO Set,Toys,50.11,2.0,4.4,100.22
+2024-01-27,P1042,Eye Cream,Beauty,55.12,,,771.68
+2024-01-01,P1003,Air Fryer,Home & Kitchen,48.96,4.0,3.8,195.84
+2024-01-21,P1009,Knife Set,Home & Kitchen,89.61,5.0,4.4,448.05
+2024-01-24,P1009,Knife Set,Home & Kitchen,172.05,11.0,4.3,1892.55
+2024-01-18,P1028,Gym Bag,Sports,82.69,7.0,3.5,578.83
+2024-01-03,P1002,Smart Watch,Electronics,124.84,8.0,4.2,998.72
+2024-01-18,P1018,Lip Balm,Beauty,74.89,14.0,4.8,1048.46
+2024-01-19,P1006,Webcam,Electronics,171.53,11.0,3.6,1886.83
+2024-01-14,P1015,Deep Learning,Books,37.89,6.0,4.5,227.34
+2024-01-10,P1002,Running Shorts,Clothing,41.69,3.0,5.0,125.07
+2024-01-29,P1003,Air Fryer,Home & Kitchen,27.08,15.0,4.7,406.2
+2024-01-22,P1012,Cutting Board,Home & Kitchen,157.45,1.0,5.0,157.45
+2024-01-12,P1004,Denim Jacket,Clothing,40.42,16.0,3.0,646.72
+2024-01-20,P1049,Science Kit,Toys,62.84,4.0,4.3,251.36
+2024-01-30,P1018,Lip Balm,Beauty,41.95,6.0,3.5,251.7
+2024-01-26,P1006,Cotton T-Shirt,Clothing,43.08,6.0,4.0,258.48
+2024-01-29,P1021,Puzzle 1000pc,Toys,72.59,22.0,4.1,1596.98
+2024-01-06,P1004,Yoga Mat,Sports,99.75,8.0,4.3,798.0
+2024-01-26,P1036,Body Lotion,Beauty,66.87,18.0,3.6,1203.66
+2024-01-09,P1016,Jump Rope,Sports,73.7,5.0,3.7,368.5
+2024-01-13,P1004,Denim Jacket,Clothing,53.74,6.0,3.3,322.44
+2024-01-28,P1007,LEGO Set,Toys,56.64,6.0,5.0,339.84
+2024-01-07,P1016,Jump Rope,Sports,47.76,11.0,3.6,525.36
+2024-01-12,P1056,Card Game,Toys,46.26,7.0,5.0,323.82
+2024-01-08,P1012,Cutting Board,Home & Kitchen,89.31,5.0,4.8,446.55
+2024-01-13,P1004,Laptop Stand,Electronics,248.31,8.0,4.6,1986.48
+2024-01-28,P1015,Blender,Home & Kitchen,20.97,3.0,3.6,62.91
+2024-01-12,P1005,USB-C Hub,Electronics,93.74,6.0,2.8,562.44
+2024-01-22,P1042,Eye Cream,Beauty,74.86,8.0,4.0,598.88
+2024-01-01,P1042,Art Kit,Toys,55.17,9.0,4.1,496.53
+2024-01-06,P1005,USB-C Hub,Electronics,114.7,2.0,3.5,229.4
+2024-01-02,P1025,The Lean Startup,Books,43.64,9.0,4.1,392.76
+2024-01-12,P1007,Keyboard,Electronics,38.8,6.0,5.0,232.8
+2024-01-14,P1036,Body Lotion,Beauty,14.98,6.0,3.9,89.88
+2024-01-13,P1010,Atomic Habits,Books,31.08,2.0,4.7,62.16
+2024-01-09,P1020,Clean Code,Books,15.2,3.0,3.0,45.6
+2024-01-01,P1007,Keyboard,Electronics,118.63,5.0,4.1,593.15
+2024-01-12,P1020,Clean Code,Books,16.92,6.0,4.4,101.52
+2024-01-22,P1008,Resistance Bands,Sports,44.36,10.0,5.0,443.6
+2024-01-22,P1018,Toaster,Home & Kitchen,153.74,26.0,3.7,3997.24
+2024-01-24,P1014,Board Game,Toys,49.91,5.0,3.6,249.55
+2024-01-22,P1015,Blender,Home & Kitchen,133.19,5.0,4.9,665.95
+2024-01-13,P1024,Foam Roller,Sports,19.02,23.0,4.5,437.46
+2024-01-18,P1030,Hair Mask,Beauty,62.92,2.0,5.0,125.84
+2024-01-14,P1008,Yoga Pants,Clothing,71.97,13.0,5.0,935.61
+2024-01-22,P1042,Eye Cream,Beauty,33.54,3.0,2.9,100.62
+2024-01-20,P1018,Lip Balm,Beauty,20.61,16.0,4.6,329.76
+2024-01-13,P1025,The Lean Startup,Books,14.1,14.0,3.7,197.4
+2024-01-10,P1005,Python for Data Science,Books,25.08,6.0,3.6,150.48
+2024-01-14,P1012,Cutting Board,Home & Kitchen,144.33,5.0,4.1,721.65
+2024-01-15,P1042,Art Kit,Toys,31.25,9.0,3.6,281.25
+2024-01-22,P1032,Cycling Gloves,Sports,8.36,1.0,4.9,8.36
+2024-01-26,P1016,Socks,Clothing,57.06,21.0,3.9,1198.26
+2024-01-22,P1021,Puzzle 1000pc,Toys,46.44,13.0,4.7,603.72
+2024-01-17,P1005,USB-C Hub,Electronics,137.11,16.0,3.7,2193.76
+2024-01-03,P1036,Body Lotion,Beauty,38.57,4.0,3.6,154.28
+2024-01-22,P1028,Remote Car,Toys,74.89,9.0,4.4,674.01
+2024-01-26,P1012,Cutting Board,Home & Kitchen,74.77,10.0,3.0,747.7
+2024-01-01,P1006,Cotton T-Shirt,Clothing,16.45,9.0,5.0,148.05
+2024-01-16,P1004,Laptop Stand,Electronics,37.84,5.0,3.6,189.2
+2024-01-15,P1010,Atomic Habits,Books,36.74,5.0,3.7,183.7
+2024-01-23,P1016,Jump Rope,Sports,46.9,8.0,4.2,375.2
+2024-01-16,P1042,Eye Cream,Beauty,20.66,3.0,5.0,61.98
+2024-01-05,P1016,Jump Rope,Sports,24.94,5.0,3.6,124.7
+2024-01-29,P1006,Face Moisturizer,Beauty,11.01,11.0,5.0,121.11
+2024-01-25,P1014,Board Game,Toys,43.31,5.0,4.9,216.55
+2024-01-06,P1016,Jump Rope,Sports,92.76,4.0,4.2,371.04
+2024-01-02,P1056,Card Game,Toys,74.02,9.0,3.7,666.18
+2024-01-30,P1020,Clean Code,Books,27.36,13.0,3.7,355.68
+2024-01-15,P1014,Board Game,Toys,35.74,9.0,4.6,321.66
+2024-01-22,P1016,Socks,Clothing,24.74,12.0,4.6,296.88
+2024-01-25,P1030,Thinking Fast and Slow,Books,40.63,5.0,3.9,203.15
+2024-01-27,P1028,Gym Bag,Sports,89.93,11.0,3.9,989.23
+2024-01-29,P1040,Rich Dad Poor Dad,Books,34.34,9.0,3.9,309.06
+2024-01-15,P1016,Socks,Clothing,20.1,2.0,4.8,40.2
+2024-01-27,P1012,Cutting Board,Home & Kitchen,156.2,7.0,3.8,1093.4
+2024-01-25,P1030,Hair Mask,Beauty,54.33,12.0,4.5,651.96
+2024-01-21,P1056,Card Game,Toys,37.47,5.0,4.4,187.35
+2024-01-15,P1010,Hoodie,Clothing,87.02,3.0,4.8,261.06
+2024-01-08,P1005,USB-C Hub,Electronics,183.33,1.0,4.2,183.33
+2024-01-11,P1018,Toaster,Home & Kitchen,92.35,10.0,3.1,923.5
+2024-01-05,P1010,Atomic Habits,Books,16.86,9.0,4.8,151.74
+2024-01-13,P1008,Yoga Pants,Clothing,51.4,4.0,3.7,205.6
+2024-01-23,P1018,Lip Balm,Beauty,50.92,10.0,5.0,509.2
+2024-01-14,P1004,Denim Jacket,Clothing,18.34,7.0,2.7,128.38
+2024-01-18,P1024,Foam Roller,Sports,48.53,5.0,4.1,242.65
+2024-01-02,P1028,Gym Bag,Sports,76.41,1.0,3.7,76.41
+2024-01-13,P1014,Cap,Clothing,10.61,6.0,3.6,63.66
+2024-01-28,P1007,LEGO Set,Toys,50.11,7.0,3.6,350.77
+2024-01-16,P1049,Science Kit,Toys,37.42,8.0,4.0,299.36
+2024-01-10,P1006,Webcam,Electronics,82.96,5.0,3.7,414.8
+2024-01-28,P1049,Science Kit,Toys,37.23,7.0,4.1,260.61
+2024-01-18,P1049,Science Kit,Toys,51.35,6.0,4.6,308.1
+2024-01-16,P1024,Sunscreen SPF50,Beauty,6.87,2.0,3.7,13.74
+2024-01-14,P1010,Hoodie,Clothing,19.84,,,79.36
+2024-01-13,P1004,Yoga Mat,Sports,83.37,7.0,3.4,583.59
+2024-01-24,P1021,Dish Rack,Home & Kitchen,111.06,16.0,3.1,1776.96
+2024-01-30,P1016,Socks,Clothing,23.35,2.0,4.0,46.7
+2024-01-30,P1002,Running Shorts,Clothing,12.04,7.0,4.9,84.28
+2024-01-03,P1004,Yoga Mat,Sports,42.86,11.0,5.0,471.46
+2024-01-05,P1042,Eye Cream,Beauty,16.4,4.0,4.1,65.6
+2024-01-06,P1056,Card Game,Toys,35.22,9.0,5.0,316.98
+2024-01-13,P1005,USB-C Hub,Electronics,241.26,,,482.52
+2024-01-15,P1012,Cutting Board,Home & Kitchen,106.36,15.0,4.3,1595.4
+2024-01-25,P1018,Toaster,Home & Kitchen,57.79,4.0,3.6,231.16
+2024-01-25,P1020,Dumbbell Set,Sports,57.73,8.0,5.0,461.84
+2024-01-09,P1049,Science Kit,Toys,40.91,5.0,4.2,204.55
+2024-01-16,P1014,Board Game,Toys,61.38,11.0,3.9,675.18
+2024-01-12,P1001,Wireless Headphones,Electronics,196.4,12.0,2.6,2356.8
+2024-01-25,P1004,Denim Jacket,Clothing,77.76,6.0,4.7,466.56
+2024-01-25,P1006,Face Moisturizer,Beauty,57.25,5.0,3.7,286.25
+2024-01-07,P1004,Laptop Stand,Electronics,249.51,15.0,4.4,3742.65
+2024-01-20,P1007,LEGO Set,Toys,19.29,9.0,4.6,173.61
+2024-01-05,P1008,Yoga Pants,Clothing,37.91,5.0,4.0,189.55
+2024-01-19,P1008,Resistance Bands,Sports,64.07,,,640.7
+2024-01-23,P1016,Socks,Clothing,48.11,10.0,3.4,481.1
+2024-01-06,P1018,Toaster,Home & Kitchen,127.63,11.0,3.5,1403.93
+2024-01-25,P1010,Atomic Habits,Books,35.7,4.0,4.1,142.8
+2024-01-10,P1021,Puzzle 1000pc,Toys,26.04,4.0,4.8,104.16
+2024-01-30,P1001,Wireless Headphones,Electronics,202.51,7.0,4.7,1417.57
+2024-01-13,P1021,Dish Rack,Home & Kitchen,131.14,14.0,4.8,1835.96
+2024-01-03,P1024,Sunscreen SPF50,Beauty,13.8,9.0,4.8,124.2
+2024-01-04,P1020,Clean Code,Books,36.4,10.0,3.9,364.0
+2024-01-28,P1030,Hair Mask,Beauty,40.95,6.0,4.3,245.7
+2024-01-26,P1012,Vitamin C Serum,Beauty,53.72,21.0,3.6,1128.12
+2024-01-12,P1005,Python for Data Science,Books,21.61,1.0,4.2,21.61
+2024-01-22,P1035,Zero to One,Books,22.03,4.0,3.5,88.12
+2024-01-17,P1006,Coffee Maker,Home & Kitchen,91.58,7.0,4.4,641.06
+2024-01-01,P1036,Body Lotion,Beauty,62.99,3.0,4.2,188.97
+2024-01-27,P1049,Science Kit,Toys,43.67,,,218.35
+2024-01-14,P1008,Resistance Bands,Sports,108.64,8.0,4.5,869.12
+2024-01-23,P1024,Storage Bins,Home & Kitchen,24.54,8.0,4.1,196.32
+2024-01-06,P1014,Cap,Clothing,74.89,3.0,5.0,224.67
+2024-01-20,P1030,Hair Mask,Beauty,27.5,5.0,4.1,137.5
+2024-01-15,P1056,Card Game,Toys,10.51,6.0,5.0,63.06
+2024-01-11,P1020,Dumbbell Set,Sports,38.77,,,116.31
+2024-01-27,P1028,Remote Car,Toys,38.96,12.0,4.3,467.52
+2024-01-29,P1005,USB-C Hub,Electronics,245.77,13.0,3.8,3195.01
+2024-01-25,P1016,Jump Rope,Sports,94.42,6.0,4.1,566.52
+2024-01-11,P1028,Gym Bag,Sports,102.98,3.0,4.3,308.94
+2024-01-28,P1008,Mouse Pad,Electronics,51.66,4.0,3.2,206.64
+2024-01-16,P1009,Knife Set,Home & Kitchen,79.76,,,717.84
+2024-01-26,P1012,Sneakers,Clothing,83.46,2.0,3.5,166.92
+2024-01-09,P1018,Toaster,Home & Kitchen,43.91,7.0,4.5,307.37
+2024-01-18,P1025,The Lean Startup,Books,41.08,14.0,3.9,575.12
+2024-01-03,P1004,Laptop Stand,Electronics,158.0,3.0,3.5,474.0
+2024-01-16,P1014,Cap,Clothing,85.26,10.0,4.3,852.6
+2024-01-23,P1020,Clean Code,Books,8.0,4.0,3.4,32.0
+2024-01-15,P1032,Cycling Gloves,Sports,33.81,7.0,3.5,236.67
+2024-01-03,P1007,LEGO Set,Toys,56.32,2.0,5.0,112.64
+2024-01-13,P1012,Cutting Board,Home & Kitchen,124.07,3.0,4.4,372.21
+2024-01-10,P1024,Sunscreen SPF50,Beauty,76.46,11.0,4.7,841.06
+2024-01-16,P1036,Body Lotion,Beauty,62.17,7.0,4.6,435.19
+2024-01-14,P1030,Thinking Fast and Slow,Books,33.7,9.0,4.4,303.3
+2024-01-12,P1036,Body Lotion,Beauty,76.08,15.0,4.5,1141.2
+2024-01-09,P1048,Toner,Beauty,34.44,15.0,3.2,516.6
+2024-01-08,P1015,Blender,Home & Kitchen,131.3,7.0,4.2,919.1
+2024-01-11,P1004,Laptop Stand,Electronics,114.22,19.0,3.4,2170.18
+2024-01-07,P1003,Bluetooth Speaker,Electronics,221.07,,,1547.49
+2024-01-09,P1016,Socks,Clothing,53.91,7.0,3.7,377.37
+2024-01-04,P1030,Hair Mask,Beauty,38.02,10.0,4.4,380.2
+2024-01-10,P1028,Remote Car,Toys,51.71,6.0,3.8,310.26
+2024-01-06,P1012,Sneakers,Clothing,88.43,2.0,5.0,176.86
+2024-01-23,P1003,Air Fryer,Home & Kitchen,131.25,4.0,3.1,525.0
+2024-01-09,P1015,Deep Learning,Books,18.64,6.0,4.2,111.84
+2024-01-18,P1001,Wireless Headphones,Electronics,165.32,2.0,4.8,330.64
+2024-01-21,P1009,Knife Set,Home & Kitchen,115.65,9.0,4.0,1040.85
+2024-01-04,P1056,Card Game,Toys,48.19,5.0,4.4,240.95
+2024-01-19,P1007,LEGO Set,Toys,35.94,5.0,3.6,179.7
+2024-01-16,P1024,Storage Bins,Home & Kitchen,138.48,5.0,5.0,692.4
+2024-01-06,P1024,Foam Roller,Sports,79.42,16.0,4.3,1270.72
+2024-01-28,P1005,USB-C Hub,Electronics,191.21,4.0,4.1,764.84
+2024-01-27,P1008,Resistance Bands,Sports,90.07,8.0,4.4,720.56
+2024-01-16,P1007,Keyboard,Electronics,192.15,2.0,4.5,384.3
+2024-01-05,P1001,Wireless Headphones,Electronics,156.5,8.0,3.7,1252.0
+2024-01-03,P1010,Hoodie,Clothing,45.4,24.0,3.8,1089.6
+2024-01-18,P1004,Denim Jacket,Clothing,45.51,9.0,4.1,409.59
+2024-01-20,P1049,Science Kit,Toys,70.26,5.0,4.4,351.3
+2024-01-25,P1020,Clean Code,Books,40.62,3.0,3.4,121.86
+2024-01-15,P1035,Zero to One,Books,27.06,5.0,3.4,135.3
+2024-01-28,P1020,Dumbbell Set,Sports,64.63,2.0,4.7,129.26
+2024-01-10,P1035,Zero to One,Books,26.62,5.0,5.0,133.1
+2024-01-20,P1005,Python for Data Science,Books,13.93,3.0,4.2,41.79
+2024-01-25,P1012,Vitamin C Serum,Beauty,17.94,22.0,3.6,394.68
+2024-01-09,P1008,Yoga Pants,Clothing,27.79,4.0,3.7,111.16
+2024-01-06,P1012,Vitamin C Serum,Beauty,77.03,7.0,2.5,539.21
+2024-01-18,P1006,Cotton T-Shirt,Clothing,79.64,5.0,4.4,398.2
+2024-01-01,P1003,Bluetooth Speaker,Electronics,71.41,5.0,5.0,357.05
+2024-01-23,P1032,Cycling Gloves,Sports,78.38,2.0,4.3,156.76
+2024-01-10,P1040,Rich Dad Poor Dad,Books,38.94,21.0,4.8,817.74
+2024-01-10,P1004,Laptop Stand,Electronics,126.54,5.0,3.9,632.7
+2024-01-23,P1030,Hair Mask,Beauty,46.09,6.0,3.9,276.54
+2024-01-03,P1056,Card Game,Toys,74.82,12.0,3.3,897.84
+2024-01-30,P1024,Sunscreen SPF50,Beauty,11.08,5.0,4.5,55.4
+2024-01-14,P1012,Cutting Board,Home & Kitchen,94.86,4.0,4.4,379.44
+2024-01-21,P1004,Laptop Stand,Electronics,200.94,18.0,4.3,3616.92
+2024-01-27,P1010,Hoodie,Clothing,59.64,3.0,4.3,178.92
+2024-01-02,P1004,Denim Jacket,Clothing,70.7,9.0,3.4,636.3
+2024-01-20,P1010,Hoodie,Clothing,27.19,4.0,3.6,108.76
+2024-01-15,P1030,Hair Mask,Beauty,66.82,19.0,3.4,1269.58
+2024-01-23,P1008,Mouse Pad,Electronics,236.29,9.0,4.5,2126.61
+2024-01-09,P1021,Dish Rack,Home & Kitchen,51.09,6.0,4.3,306.54
+2024-01-15,P1040,Rich Dad Poor Dad,Books,21.63,2.0,4.3,43.26
+2024-01-29,P1001,Wireless Headphones,Electronics,33.77,4.0,4.3,135.08
+2024-01-20,P1024,Foam Roller,Sports,35.89,9.0,4.0,323.01
+2024-01-03,P1003,Air Fryer,Home & Kitchen,36.46,6.0,4.9,218.76
+2024-01-25,P1002,Running Shorts,Clothing,13.12,17.0,4.5,223.04
+2024-01-19,P1030,Hair Mask,Beauty,49.89,11.0,3.5,548.79
+2024-01-16,P1003,Bluetooth Speaker,Electronics,236.88,15.0,4.7,3553.2
+2024-01-30,P1040,Rich Dad Poor Dad,Books,18.19,15.0,4.4,272.85
+2024-01-19,P1009,Knife Set,Home & Kitchen,90.1,3.0,4.4,270.3
+2024-01-03,P1032,Cycling Gloves,Sports,86.36,14.0,3.4,1209.04
+2024-01-14,P1024,Foam Roller,Sports,72.13,5.0,4.1,360.65
+2024-01-22,P1018,Toaster,Home & Kitchen,28.95,9.0,4.3,260.55
+2024-01-11,P1003,Bluetooth Speaker,Electronics,129.63,3.0,4.0,388.89
+2024-01-10,P1032,Cycling Gloves,Sports,15.96,4.0,3.9,63.84
+2024-01-27,P1042,Eye Cream,Beauty,78.01,7.0,3.9,546.07
+2024-01-15,P1007,LEGO Set,Toys,33.1,2.0,3.9,66.2
+2024-01-09,P1006,Webcam,Electronics,102.1,7.0,4.2,714.7
+2024-01-25,P1006,Coffee Maker,Home & Kitchen,38.77,21.0,4.1,814.17
+2024-01-22,P1004,Yoga Mat,Sports,42.32,2.0,5.0,84.64
+2024-01-14,P1056,Card Game,Toys,47.33,9.0,5.0,425.97
+2024-01-17,P1004,Laptop Stand,Electronics,135.83,8.0,4.3,1086.64
+2024-01-21,P1024,Storage Bins,Home & Kitchen,110.59,4.0,3.6,442.36
+2024-01-07,P1004,Yoga Mat,Sports,71.94,9.0,4.8,647.46
+2024-01-30,P1009,Knife Set,Home & Kitchen,75.62,6.0,4.3,453.72
+2024-01-29,P1024,Storage Bins,Home & Kitchen,56.2,1.0,4.3,56.2
+2024-01-04,P1048,Toner,Beauty,52.42,7.0,3.5,366.94
+2024-01-23,P1004,Laptop Stand,Electronics,78.58,5.0,5.0,392.9
+2024-01-18,P1010,Hoodie,Clothing,89.96,3.0,4.2,269.88
+2024-01-03,P1007,Keyboard,Electronics,163.4,6.0,5.0,980.4
+2024-01-15,P1004,Denim Jacket,Clothing,45.92,5.0,4.3,229.6
+2024-01-16,P1003,Bluetooth Speaker,Electronics,193.92,6.0,3.8,1163.52
+2024-01-17,P1030,Hair Mask,Beauty,67.19,13.0,4.2,873.47
+2024-01-14,P1030,Hair Mask,Beauty,77.15,11.0,4.2,848.65
+2024-01-16,P1056,Card Game,Toys,56.54,9.0,5.0,508.86
+2024-01-18,P1016,Socks,Clothing,16.32,3.0,3.9,48.96
+2024-01-07,P1014,Cap,Clothing,39.8,4.0,4.3,159.2
+2024-01-28,P1015,Deep Learning,Books,32.49,6.0,4.6,194.94
+2024-01-25,P1005,USB-C Hub,Electronics,174.29,4.0,3.2,697.16
+2024-01-11,P1049,Science Kit,Toys,27.66,6.0,3.8,165.96
+2024-01-27,P1035,Stuffed Animal,Toys,42.03,14.0,3.1,588.42
+2024-01-24,P1005,USB-C Hub,Electronics,27.43,7.0,4.4,192.01
+2024-01-28,P1024,Storage Bins,Home & Kitchen,136.91,8.0,4.0,1095.28
+2024-01-18,P1016,Socks,Clothing,87.58,1.0,3.6,87.58
+2024-01-11,P1024,Foam Roller,Sports,85.51,3.0,4.0,256.53
+2024-01-15,P1035,Zero to One,Books,38.47,5.0,4.9,192.35
+2024-01-23,P1012,Cutting Board,Home & Kitchen,92.0,,,1104.0
+2024-01-08,P1014,Cap,Clothing,75.89,6.0,2.8,455.34
+2024-01-02,P1049,Science Kit,Toys,40.91,4.0,3.9,163.64
+2024-01-23,P1024,Storage Bins,Home & Kitchen,83.92,9.0,3.6,755.28
+2024-01-13,P1049,Science Kit,Toys,26.6,5.0,3.6,133.0
+2024-01-16,P1018,Lip Balm,Beauty,17.6,3.0,3.9,52.8
+2024-01-17,P1003,Bluetooth Speaker,Electronics,189.58,12.0,4.5,2274.96
+2024-01-28,P1030,Thinking Fast and Slow,Books,22.02,6.0,4.3,132.12
+2024-01-04,P1008,Mouse Pad,Electronics,86.2,9.0,4.4,775.8
+2024-01-01,P1040,Rich Dad Poor Dad,Books,30.33,20.0,4.8,606.6
+2024-01-14,P1018,Lip Balm,Beauty,52.08,3.0,3.5,156.24
+2024-01-03,P1021,Puzzle 1000pc,Toys,37.18,5.0,4.3,185.9
+2024-01-11,P1020,Dumbbell Set,Sports,26.26,4.0,3.8,105.04
+2024-01-21,P1035,Zero to One,Books,29.24,3.0,4.1,87.72
+2024-01-28,P1006,Webcam,Electronics,34.06,12.0,4.4,408.72
+2024-01-11,P1042,Eye Cream,Beauty,33.73,5.0,4.5,168.65
+2024-01-28,P1048,Toner,Beauty,74.85,4.0,4.5,299.4
+2024-01-20,P1005,Python for Data Science,Books,9.9,5.0,4.9,49.5
+2024-01-21,P1004,Laptop Stand,Electronics,196.04,6.0,4.0,1176.24
+2024-01-08,P1030,Hair Mask,Beauty,57.59,7.0,4.6,403.13
+2024-01-14,P1012,Vitamin C Serum,Beauty,67.13,3.0,3.6,201.39
+2024-01-15,P1002,Smart Watch,Electronics,176.04,15.0,3.9,2640.6
+2024-01-29,P1010,Hoodie,Clothing,47.41,12.0,3.5,568.92
+2024-01-11,P1001,Wireless Headphones,Electronics,197.21,3.0,3.8,591.63
+2024-01-10,P1007,LEGO Set,Toys,53.97,12.0,3.1,647.64
+2024-01-14,P1018,Toaster,Home & Kitchen,60.53,13.0,4.5,786.89
+2024-01-17,P1008,Yoga Pants,Clothing,69.77,1.0,4.3,69.77
+2024-01-06,P1012,Water Bottle,Sports,103.14,5.0,3.9,515.7
+2024-01-20,P1004,Denim Jacket,Clothing,16.53,5.0,4.7,82.65
+2024-01-20,P1049,Science Kit,Toys,72.74,5.0,4.2,363.7
+2024-01-16,P1024,Sunscreen SPF50,Beauty,31.23,4.0,5.0,124.92
+2024-01-08,P1015,Deep Learning,Books,41.31,5.0,3.6,206.55
+2024-01-15,P1020,Dumbbell Set,Sports,82.13,2.0,3.6,164.26
+2024-01-29,P1003,Air Fryer,Home & Kitchen,124.73,11.0,4.2,1372.03
+2024-01-29,P1056,Card Game,Toys,16.72,4.0,3.6,66.88
+2024-01-03,P1009,Knife Set,Home & Kitchen,56.99,14.0,4.1,797.86
+2024-01-19,P1024,Foam Roller,Sports,65.62,8.0,5.0,524.96
+2024-01-23,P1021,Dish Rack,Home & Kitchen,159.15,11.0,4.3,1750.65
+2024-01-28,P1024,Storage Bins,Home & Kitchen,125.96,3.0,4.8,377.88
+2024-01-13,P1012,Cutting Board,Home & Kitchen,129.41,12.0,4.6,1552.92
+2024-01-04,P1056,Card Game,Toys,50.25,5.0,3.1,251.25
+2024-01-19,P1014,Cap,Clothing,48.28,5.0,5.0,241.4
+2024-01-23,P1015,Blender,Home & Kitchen,111.62,2.0,4.3,223.24
+2024-01-27,P1003,Air Fryer,Home & Kitchen,97.19,7.0,4.6,680.33
+2024-01-09,P1042,Eye Cream,Beauty,40.5,5.0,3.5,202.5
+2024-01-30,P1001,Wireless Headphones,Electronics,197.47,6.0,4.8,1184.82
+2024-01-27,P1040,Rich Dad Poor Dad,Books,12.46,8.0,4.1,99.68
+2024-01-20,P1012,Cutting Board,Home & Kitchen,81.12,3.0,3.3,243.36
+2024-01-08,P1042,Art Kit,Toys,62.89,7.0,4.4,440.23
+2024-01-20,P1024,Sunscreen SPF50,Beauty,34.99,9.0,3.7,314.91
+2024-01-21,P1009,Knife Set,Home & Kitchen,108.37,5.0,4.6,541.85
+2024-01-10,P1001,Wireless Headphones,Electronics,236.4,11.0,5.0,2600.4
+2024-01-02,P1056,Card Game,Toys,56.93,9.0,3.8,512.37
+2024-01-24,P1030,Thinking Fast and Slow,Books,38.13,3.0,3.9,114.39
+2024-01-30,P1004,Denim Jacket,Clothing,57.96,6.0,4.6,347.76
+2024-01-24,P1018,Toaster,Home & Kitchen,146.96,17.0,4.2,2498.32
+2024-01-07,P1012,Water Bottle,Sports,54.38,5.0,4.4,271.9
+2024-01-17,P1012,Sneakers,Clothing,58.35,5.0,5.0,291.75
+2024-01-27,P1025,The Lean Startup,Books,15.48,5.0,4.0,77.4
+2024-01-30,P1010,Hoodie,Clothing,50.46,7.0,5.0,353.22
+2024-01-26,P1056,Card Game,Toys,12.86,5.0,3.3,64.3
+2024-01-26,P1018,Toaster,Home & Kitchen,43.03,4.0,4.2,172.12
+2024-01-03,P1008,Mouse Pad,Electronics,110.98,6.0,4.2,665.88
+2024-01-28,P1008,Yoga Pants,Clothing,36.83,5.0,4.4,184.15
+2024-01-28,P1042,Eye Cream,Beauty,65.02,10.0,5.0,650.2
+2024-01-03,P1042,Art Kit,Toys,35.96,11.0,4.1,395.56
+2024-01-01,P1049,Science Kit,Toys,37.03,2.0,4.8,74.06
+2024-01-15,P1006,Coffee Maker,Home & Kitchen,126.45,7.0,3.9,885.15
+2024-01-19,P1015,Blender,Home & Kitchen,94.83,2.0,3.5,189.66
+2024-01-04,P1024,Foam Roller,Sports,60.83,22.0,5.0,1338.26
+2024-01-16,P1024,Sunscreen SPF50,Beauty,32.26,11.0,5.0,354.86
+2024-01-30,P1006,Webcam,Electronics,89.84,5.0,4.0,449.2
+2024-01-21,P1020,Clean Code,Books,25.45,6.0,3.6,152.7
+2024-01-30,P1008,Mouse Pad,Electronics,154.85,8.0,4.6,1238.8
+2024-01-21,P1030,Hair Mask,Beauty,28.67,21.0,4.9,602.07
+2024-01-05,P1008,Resistance Bands,Sports,17.83,,,71.32
+2024-01-10,P1001,Wireless Headphones,Electronics,171.11,17.0,4.5,2908.87
+2024-01-04,P1008,Resistance Bands,Sports,71.23,11.0,4.8,783.53
+2024-01-13,P1006,Cotton T-Shirt,Clothing,13.94,9.0,4.0,125.46
+2024-01-22,P1024,Foam Roller,Sports,54.0,13.0,4.2,702.0
+2024-01-19,P1042,Eye Cream,Beauty,53.75,5.0,4.6,268.75
+2024-01-29,P1018,Lip Balm,Beauty,61.59,2.0,3.4,123.18
+2024-01-27,P1008,Resistance Bands,Sports,35.84,10.0,3.7,358.4
+2024-01-09,P1028,Gym Bag,Sports,104.01,7.0,4.4,728.07
+2024-01-07,P1006,Webcam,Electronics,95.21,13.0,4.3,1237.73
+2024-01-08,P1032,Cycling Gloves,Sports,105.78,6.0,5.0,634.68
+2024-01-04,P1042,Art Kit,Toys,43.22,6.0,5.0,259.32
+2024-01-18,P1036,Body Lotion,Beauty,32.86,9.0,4.5,295.74
+2024-01-02,P1036,Body Lotion,Beauty,28.07,,,28.07
+2024-01-07,P1020,Dumbbell Set,Sports,68.96,7.0,4.2,482.72
+2024-01-03,P1008,Mouse Pad,Electronics,246.12,8.0,4.0,1968.96
+2024-01-21,P1024,Sunscreen SPF50,Beauty,39.89,,,359.01
+2024-01-02,P1006,Face Moisturizer,Beauty,79.68,5.0,4.0,398.4
+2024-01-08,P1042,Art Kit,Toys,69.48,7.0,4.5,486.36
+2024-01-03,P1008,Yoga Pants,Clothing,37.91,9.0,3.2,341.19
+2024-01-19,P1028,Remote Car,Toys,74.63,13.0,3.8,970.19
+2024-01-11,P1008,Yoga Pants,Clothing,50.71,10.0,4.1,507.1
+2024-01-26,P1021,Puzzle 1000pc,Toys,36.23,4.0,3.8,144.92
+2024-01-09,P1005,Python for Data Science,Books,16.64,4.0,4.4,66.56
+2024-01-05,P1021,Puzzle 1000pc,Toys,31.46,5.0,3.9,157.3
+2024-01-26,P1025,The Lean Startup,Books,12.58,7.0,3.8,88.06
+2024-01-22,P1004,Denim Jacket,Clothing,50.94,6.0,4.2,305.64
+2024-01-05,P1007,LEGO Set,Toys,20.89,6.0,2.9,125.34
+2024-01-26,P1006,Webcam,Electronics,118.04,5.0,4.0,590.2
+2024-01-19,P1028,Remote Car,Toys,73.78,15.0,3.8,1106.7
+2024-01-06,P1003,Air Fryer,Home & Kitchen,39.09,6.0,4.6,234.54
+2024-01-05,P1003,Air Fryer,Home & Kitchen,113.42,4.0,4.8,453.68
+2024-01-17,P1042,Eye Cream,Beauty,50.47,4.0,4.9,201.88
+2024-01-16,P1002,Smart Watch,Electronics,49.72,3.0,4.6,149.16
+2024-01-17,P1024,Foam Roller,Sports,14.24,1.0,4.5,14.24
+2024-01-15,P1010,Atomic Habits,Books,13.45,1.0,3.9,13.45
+2024-01-20,P1020,Clean Code,Books,25.9,7.0,3.7,181.3
+2024-01-15,P1005,USB-C Hub,Electronics,145.28,9.0,3.8,1307.52
+2024-01-02,P1006,Face Moisturizer,Beauty,25.02,4.0,4.0,100.08
+2024-01-14,P1028,Gym Bag,Sports,57.82,13.0,4.0,751.66
+2024-01-16,P1012,Vitamin C Serum,Beauty,55.86,6.0,3.7,335.16
+2024-01-03,P1048,Toner,Beauty,61.4,6.0,4.1,368.4
+2024-01-20,P1006,Webcam,Electronics,184.14,11.0,4.6,2025.54
+2024-01-05,P1004,Denim Jacket,Clothing,77.13,4.0,3.0,308.52
+2024-01-13,P1018,Toaster,Home & Kitchen,122.0,16.0,4.7,1952.0
+2024-01-15,P1025,The Lean Startup,Books,30.1,5.0,4.4,150.5
+2024-01-04,P1035,Zero to One,Books,14.73,7.0,4.5,103.11
+2024-01-28,P1014,Board Game,Toys,65.77,5.0,3.7,328.85
+2024-01-14,P1024,Sunscreen SPF50,Beauty,28.41,13.0,4.0,369.33
+2024-01-14,P1016,Jump Rope,Sports,67.21,23.0,3.8,1545.83
+2024-01-13,P1024,Storage Bins,Home & Kitchen,29.02,11.0,2.9,319.22
+2024-01-11,P1008,Resistance Bands,Sports,111.1,7.0,4.0,777.7
+2024-01-22,P1024,Foam Roller,Sports,56.06,1.0,3.8,56.06
+2024-01-05,P1018,Toaster,Home & Kitchen,47.17,5.0,4.8,235.85
+2024-01-03,P1048,Toner,Beauty,25.42,5.0,3.7,127.1
+2024-01-03,P1002,Smart Watch,Electronics,107.53,12.0,4.4,1290.36
+2024-01-24,P1008,Resistance Bands,Sports,14.3,9.0,4.9,128.7
+2024-01-26,P1036,Body Lotion,Beauty,11.9,3.0,5.0,35.7
+2024-01-19,P1002,Running Shorts,Clothing,42.51,11.0,4.0,467.61
+2024-01-22,P1030,Thinking Fast and Slow,Books,16.35,15.0,3.9,245.25
+2024-01-12,P1007,Keyboard,Electronics,198.04,3.0,4.9,594.12
+2024-01-28,P1049,Science Kit,Toys,67.54,10.0,4.0,675.4
+2024-01-10,P1006,Face Moisturizer,Beauty,30.58,8.0,4.9,244.64
+2024-01-12,P1025,The Lean Startup,Books,44.13,14.0,4.0,617.82
+2024-01-05,P1004,Laptop Stand,Electronics,238.23,8.0,4.0,1905.84
+2024-01-08,P1048,Toner,Beauty,18.43,2.0,4.7,36.86
+2024-01-12,P1014,Board Game,Toys,19.86,6.0,4.7,119.16
+2024-01-04,P1042,Art Kit,Toys,12.5,13.0,4.5,162.5
+2024-01-19,P1035,Stuffed Animal,Toys,61.86,15.0,4.3,927.9
+2024-01-28,P1014,Cap,Clothing,65.77,7.0,4.2,460.39
+2024-01-20,P1005,Python for Data Science,Books,10.02,13.0,4.8,130.26
+2024-01-01,P1030,Hair Mask,Beauty,28.56,6.0,4.4,171.36
+2024-01-23,P1010,Hoodie,Clothing,37.44,7.0,4.3,262.08
+2024-01-30,P1035,Stuffed Animal,Toys,28.32,2.0,3.8,56.64
+2024-01-01,P1018,Toaster,Home & Kitchen,92.17,4.0,4.3,368.68
+2024-01-19,P1006,Cotton T-Shirt,Clothing,44.63,13.0,3.1,580.19
+2024-01-03,P1042,Eye Cream,Beauty,26.65,7.0,3.6,186.55
+2024-01-03,P1002,Running Shorts,Clothing,16.96,6.0,4.1,101.76
+2024-01-13,P1024,Sunscreen SPF50,Beauty,7.05,14.0,5.0,98.7
+2024-01-11,P1032,Cycling Gloves,Sports,65.7,11.0,4.7,722.7
+2024-01-10,P1012,Sneakers,Clothing,29.06,3.0,4.2,87.18
+2024-01-25,P1036,Body Lotion,Beauty,38.97,13.0,4.2,506.61
+2024-01-29,P1010,Atomic Habits,Books,29.57,7.0,5.0,206.99
+2024-01-06,P1003,Bluetooth Speaker,Electronics,103.31,2.0,3.7,206.62
+2024-01-22,P1007,LEGO Set,Toys,57.87,3.0,3.4,173.61
+2024-01-15,P1005,USB-C Hub,Electronics,94.63,8.0,4.3,757.04
+2024-01-16,P1042,Eye Cream,Beauty,10.74,19.0,4.5,204.06
+2024-01-14,P1040,Rich Dad Poor Dad,Books,39.22,2.0,4.0,78.44
+2024-01-25,P1012,Cutting Board,Home & Kitchen,47.85,8.0,3.2,382.8
+2024-01-12,P1010,Atomic Habits,Books,16.83,7.0,3.3,117.81
+2024-01-10,P1008,Resistance Bands,Sports,15.62,6.0,3.6,93.72
+2024-01-17,P1048,Toner,Beauty,10.51,4.0,3.6,42.04
+2024-01-02,P1030,Hair Mask,Beauty,39.03,9.0,4.8,351.27
+2024-01-20,P1014,Cap,Clothing,58.77,9.0,5.0,528.93
+2024-01-07,P1001,Wireless Headphones,Electronics,135.7,4.0,3.8,542.8
+2024-01-25,P1012,Cutting Board,Home & Kitchen,168.08,11.0,4.5,1848.88
+2024-01-10,P1010,Hoodie,Clothing,61.12,6.0,3.6,366.72
+2024-01-01,P1006,Coffee Maker,Home & Kitchen,39.01,7.0,4.7,273.07
+2024-01-06,P1028,Gym Bag,Sports,13.52,6.0,3.9,81.12
+2024-01-18,P1014,Cap,Clothing,68.87,9.0,3.3,619.83
+2024-01-17,P1024,Sunscreen SPF50,Beauty,7.82,14.0,4.7,109.48
+2024-01-03,P1030,Thinking Fast and Slow,Books,12.75,6.0,4.6,76.5
+2024-01-14,P1004,Yoga Mat,Sports,60.53,9.0,4.5,544.77
+2024-01-30,P1008,Mouse Pad,Electronics,85.33,3.0,3.9,255.99
+2024-01-19,P1006,Webcam,Electronics,225.44,3.0,2.8,676.32
+2024-01-23,P1028,Gym Bag,Sports,55.19,8.0,3.2,441.52
+2024-01-10,P1042,Eye Cream,Beauty,46.44,4.0,3.9,185.76
+2024-01-01,P1007,Keyboard,Electronics,157.25,5.0,3.7,786.25
+2024-01-26,P1009,Knife Set,Home & Kitchen,136.31,15.0,5.0,2044.65
+2024-01-27,P1040,Rich Dad Poor Dad,Books,21.04,12.0,4.4,252.48
+2024-01-03,P1036,Body Lotion,Beauty,13.82,11.0,4.9,152.02
+2024-01-08,P1008,Resistance Bands,Sports,72.94,9.0,3.6,656.46
+2024-01-17,P1028,Gym Bag,Sports,80.34,7.0,3.8,562.38
+2024-01-28,P1007,Keyboard,Electronics,91.33,16.0,2.9,1461.28
+2024-01-08,P1018,Toaster,Home & Kitchen,162.81,9.0,3.7,1465.29
+2024-01-03,P1009,Knife Set,Home & Kitchen,38.74,4.0,3.6,154.96
+2024-01-17,P1010,Atomic Habits,Books,11.61,6.0,4.7,69.66
+2024-01-29,P1020,Clean Code,Books,24.86,11.0,4.7,273.46
+2024-01-12,P1042,Art Kit,Toys,69.16,14.0,3.3,968.24
+2024-01-08,P1018,Lip Balm,Beauty,62.4,7.0,4.0,436.8
+2024-01-09,P1003,Bluetooth Speaker,Electronics,186.86,7.0,3.9,1308.02
+2024-01-20,P1006,Cotton T-Shirt,Clothing,11.35,9.0,4.4,102.15
+2024-01-06,P1004,Denim Jacket,Clothing,88.2,4.0,3.9,352.8
+2024-01-15,P1056,Card Game,Toys,73.79,4.0,5.0,295.16
+2024-01-22,P1056,Card Game,Toys,13.68,9.0,3.5,123.12
+2024-01-28,P1030,Thinking Fast and Slow,Books,21.38,11.0,4.1,235.18
+2024-01-05,P1036,Body Lotion,Beauty,7.23,8.0,4.4,57.84
+2024-01-16,P1008,Resistance Bands,Sports,93.38,4.0,3.9,373.52
+2024-01-26,P1020,Dumbbell Set,Sports,57.58,3.0,4.6,172.74
+2024-01-12,P1003,Air Fryer,Home & Kitchen,118.63,7.0,4.8,830.41
+2024-01-10,P1010,Atomic Habits,Books,44.84,4.0,2.4,179.36
+2024-01-02,P1032,Cycling Gloves,Sports,73.66,3.0,4.1,220.98
+2024-01-27,P1006,Webcam,Electronics,239.26,14.0,4.4,3349.64
+2024-01-21,P1006,Coffee Maker,Home & Kitchen,31.36,3.0,5.0,94.08
+2024-01-20,P1014,Board Game,Toys,70.23,4.0,5.0,280.92
+2024-01-15,P1035,Zero to One,Books,29.67,12.0,3.5,356.04
+2024-01-15,P1005,Python for Data Science,Books,15.85,2.0,3.5,31.7
+2024-01-11,P1028,Remote Car,Toys,67.16,4.0,4.2,268.64
+2024-01-17,P1040,Rich Dad Poor Dad,Books,13.91,13.0,4.9,180.83
+2024-01-15,P1002,Running Shorts,Clothing,84.92,10.0,4.4,849.2
+2024-01-23,P1006,Webcam,Electronics,241.08,6.0,3.9,1446.48
+2024-01-02,P1003,Bluetooth Speaker,Electronics,41.25,7.0,5.0,288.75
+2024-01-15,P1016,Socks,Clothing,86.99,8.0,4.1,695.92
+2024-01-12,P1015,Deep Learning,Books,28.24,4.0,4.2,112.96
+2024-01-13,P1015,Blender,Home & Kitchen,58.34,5.0,4.3,291.7
+2024-01-22,P1024,Foam Roller,Sports,87.93,11.0,4.7,967.23
+2024-01-26,P1005,Python for Data Science,Books,22.59,10.0,4.8,225.9
+2024-01-03,P1036,Body Lotion,Beauty,30.72,5.0,3.9,153.6
+2024-01-18,P1006,Coffee Maker,Home & Kitchen,68.32,18.0,5.0,1229.76
+2024-01-10,P1042,Eye Cream,Beauty,24.02,18.0,3.9,432.36
+2024-01-11,P1009,Knife Set,Home & Kitchen,84.12,3.0,4.8,252.36
+2024-01-30,P1003,Bluetooth Speaker,Electronics,216.82,7.0,4.0,1517.74
+2024-01-21,P1015,Blender,Home & Kitchen,47.34,9.0,4.0,426.06
+2024-01-05,P1042,Eye Cream,Beauty,79.96,7.0,4.5,559.72
+2024-01-10,P1010,Atomic Habits,Books,8.67,8.0,3.6,69.36
+2024-01-21,P1035,Zero to One,Books,26.95,3.0,4.6,80.85
+2024-01-27,P1042,Art Kit,Toys,18.84,,,150.72
+2024-01-21,P1004,Denim Jacket,Clothing,30.37,3.0,3.8,91.11
+2024-01-17,P1042,Eye Cream,Beauty,67.9,7.0,3.7,475.3
+2024-01-12,P1003,Air Fryer,Home & Kitchen,37.38,14.0,3.6,523.32
+2024-01-07,P1009,Knife Set,Home & Kitchen,55.17,7.0,3.5,386.19
+2024-01-07,P1024,Storage Bins,Home & Kitchen,23.45,1.0,3.1,23.45
+2024-01-05,P1006,Cotton T-Shirt,Clothing,71.83,2.0,3.5,143.66
+2024-01-28,P1005,USB-C Hub,Electronics,204.65,3.0,3.6,613.95
+2024-01-17,P1014,Board Game,Toys,74.09,13.0,5.0,963.17
+2024-01-22,P1007,LEGO Set,Toys,59.2,7.0,4.1,414.4
+2024-01-20,P1009,Knife Set,Home & Kitchen,105.73,6.0,4.3,634.38
+2024-01-06,P1012,Water Bottle,Sports,18.91,8.0,4.7,151.28
+2024-01-24,P1006,Cotton T-Shirt,Clothing,25.6,9.0,3.9,230.4
+2024-01-14,P1004,Yoga Mat,Sports,114.59,4.0,3.5,458.36
+2024-01-15,P1012,Cutting Board,Home & Kitchen,144.18,12.0,3.5,1730.16
+2024-01-25,P1025,The Lean Startup,Books,21.92,3.0,5.0,65.76
+2024-01-08,P1048,Toner,Beauty,25.94,9.0,4.0,233.46
+2024-01-10,P1020,Clean Code,Books,25.27,8.0,3.0,202.16
+2024-01-29,P1056,Card Game,Toys,26.09,5.0,4.1,130.45
+2024-01-12,P1028,Remote Car,Toys,56.13,10.0,3.1,561.3
+2024-01-15,P1048,Toner,Beauty,40.77,7.0,4.5,285.39
+2024-01-25,P1035,Stuffed Animal,Toys,72.91,9.0,3.6,656.19
+2024-01-06,P1028,Gym Bag,Sports,54.33,12.0,3.9,651.96
+2024-01-26,P1028,Remote Car,Toys,30.45,11.0,4.1,334.95
+2024-01-28,P1015,Deep Learning,Books,10.15,13.0,3.1,131.95
+2024-01-21,P1003,Air Fryer,Home & Kitchen,18.47,6.0,4.8,110.82
+2024-01-18,P1024,Foam Roller,Sports,119.65,6.0,3.3,717.9
+2024-01-10,P1002,Smart Watch,Electronics,179.37,3.0,3.6,538.11
+2024-01-09,P1003,Bluetooth Speaker,Electronics,235.16,10.0,3.8,2351.6
+2024-01-27,P1012,Water Bottle,Sports,77.73,18.0,4.0,1399.14
+2024-01-30,P1008,Resistance Bands,Sports,55.53,8.0,4.5,444.24
+2024-01-29,P1016,Socks,Clothing,26.09,2.0,4.2,52.18
+2024-01-14,P1003,Air Fryer,Home & Kitchen,156.0,10.0,3.7,1560.0
+2024-01-17,P1007,Keyboard,Electronics,203.32,3.0,3.8,609.96
+2024-01-13,P1012,Cutting Board,Home & Kitchen,153.87,9.0,4.0,1384.83
+2024-01-08,P1006,Webcam,Electronics,161.57,9.0,4.2,1454.13
+2024-01-30,P1006,Webcam,Electronics,138.13,5.0,4.6,690.65
+2024-01-26,P1006,Webcam,Electronics,107.41,9.0,4.3,966.69
+2024-01-02,P1006,Cotton T-Shirt,Clothing,22.39,4.0,4.0,89.56
+2024-01-23,P1024,Storage Bins,Home & Kitchen,27.95,9.0,4.3,251.55
+2024-01-25,P1021,Puzzle 1000pc,Toys,36.67,2.0,4.0,73.34
+2024-01-15,P1048,Toner,Beauty,28.32,12.0,4.3,339.84
+2024-01-29,P1005,Python for Data Science,Books,29.52,6.0,4.5,177.12
+2024-01-09,P1001,Wireless Headphones,Electronics,94.38,4.0,3.6,377.52
+2024-01-18,P1006,Cotton T-Shirt,Clothing,39.7,12.0,4.3,476.4
+2024-01-04,P1042,Eye Cream,Beauty,44.83,4.0,5.0,179.32
+2024-01-08,P1035,Stuffed Animal,Toys,61.62,8.0,3.9,492.96
+2024-01-02,P1006,Coffee Maker,Home & Kitchen,44.42,12.0,3.7,533.04
+2024-01-21,P1014,Cap,Clothing,20.43,,,143.01
+2024-01-03,P1056,Card Game,Toys,52.6,29.0,3.2,1525.4
+2024-01-20,P1008,Mouse Pad,Electronics,147.28,5.0,4.6,736.4
+2024-01-21,P1005,Python for Data Science,Books,21.15,11.0,3.7,232.65
+2024-01-23,P1020,Clean Code,Books,19.2,15.0,4.6,288.0
+2024-01-14,P1010,Hoodie,Clothing,75.9,2.0,3.2,151.8
+2024-01-08,P1006,Webcam,Electronics,90.52,5.0,3.7,452.6
+2024-01-06,P1035,Zero to One,Books,43.58,6.0,4.8,261.48
+2024-01-17,P1012,Vitamin C Serum,Beauty,41.31,8.0,4.3,330.48
+2024-01-17,P1006,Coffee Maker,Home & Kitchen,179.87,10.0,3.8,1798.7
+2024-01-13,P1005,Python for Data Science,Books,37.34,5.0,4.3,186.7
+2024-01-02,P1056,Card Game,Toys,20.71,9.0,4.3,186.39
+2024-01-12,P1042,Eye Cream,Beauty,10.05,12.0,3.9,120.6
+2024-01-12,P1003,Air Fryer,Home & Kitchen,62.12,2.0,3.9,124.24
+2024-01-12,P1014,Board Game,Toys,24.26,2.0,3.3,48.52
+2024-01-25,P1004,Denim Jacket,Clothing,36.7,12.0,3.7,440.4
+2024-01-05,P1030,Thinking Fast and Slow,Books,16.72,8.0,5.0,133.76
+2024-01-18,P1006,Webcam,Electronics,234.6,8.0,3.6,1876.8
+2024-01-27,P1009,Knife Set,Home & Kitchen,34.99,6.0,3.3,209.94
+2024-01-23,P1056,Card Game,Toys,11.26,18.0,3.2,202.68
+2024-01-26,P1012,Water Bottle,Sports,16.05,7.0,3.6,112.35
+2024-01-23,P1004,Denim Jacket,Clothing,37.22,6.0,4.8,223.32
+2024-01-02,P1056,Card Game,Toys,40.26,9.0,3.4,362.34
+2024-01-02,P1012,Cutting Board,Home & Kitchen,67.81,1.0,3.8,67.81
+2024-01-29,P1028,Remote Car,Toys,51.82,10.0,3.7,518.2
+2024-01-30,P1006,Webcam,Electronics,117.69,7.0,3.3,823.83
+2024-01-27,P1021,Dish Rack,Home & Kitchen,85.47,2.0,3.9,170.94
+2024-01-09,P1040,Rich Dad Poor Dad,Books,38.04,6.0,4.6,228.24
+2024-01-10,P1004,Laptop Stand,Electronics,194.36,2.0,3.3,388.72
+2024-01-28,P1003,Air Fryer,Home & Kitchen,104.23,13.0,4.7,1354.99
+2024-01-09,P1036,Body Lotion,Beauty,76.57,4.0,4.7,306.28
+2024-01-14,P1006,Webcam,Electronics,69.76,6.0,4.2,418.56
+2024-01-29,P1032,Cycling Gloves,Sports,29.74,8.0,4.1,237.92
+2024-01-06,P1024,Foam Roller,Sports,34.87,15.0,4.6,523.05
+2024-01-12,P1032,Cycling Gloves,Sports,12.35,4.0,3.8,49.4
+2024-01-26,P1035,Stuffed Animal,Toys,25.68,5.0,3.6,128.4
+2024-01-03,P1007,Keyboard,Electronics,42.67,17.0,3.7,725.39
+2024-01-18,P1012,Water Bottle,Sports,63.25,4.0,3.9,253.0
+2024-01-04,P1018,Toaster,Home & Kitchen,152.96,7.0,3.1,1070.72
+2024-01-22,P1006,Webcam,Electronics,189.14,18.0,4.1,3404.52
+2024-01-15,P1015,Blender,Home & Kitchen,95.92,9.0,3.9,863.28
+2024-01-06,P1035,Zero to One,Books,26.41,5.0,3.9,132.05
+2024-01-12,P1048,Toner,Beauty,48.47,9.0,5.0,436.23
+2024-01-24,P1004,Yoga Mat,Sports,56.47,22.0,4.0,1242.34
+2024-01-20,P1042,Art Kit,Toys,30.14,7.0,4.4,210.98
+2024-01-21,P1020,Dumbbell Set,Sports,30.56,3.0,4.4,91.68
+2024-01-03,P1007,LEGO Set,Toys,67.3,15.0,3.7,1009.5
+2024-01-12,P1042,Eye Cream,Beauty,44.27,7.0,3.9,309.89
+2024-01-01,P1015,Deep Learning,Books,18.29,11.0,4.0,201.19
+2024-01-02,P1016,Socks,Clothing,71.97,9.0,4.0,647.73
+2024-01-08,P1004,Denim Jacket,Clothing,75.82,1.0,4.9,75.82
+2024-01-12,P1042,Art Kit,Toys,57.44,19.0,3.4,1091.36
+2024-01-20,P1004,Yoga Mat,Sports,104.29,3.0,3.9,312.87
+2024-01-12,P1016,Socks,Clothing,69.98,8.0,3.5,559.84
+2024-01-25,P1024,Storage Bins,Home & Kitchen,167.17,3.0,4.9,501.51
+2024-01-17,P1003,Bluetooth Speaker,Electronics,138.61,8.0,3.8,1108.88
+2024-01-11,P1021,Dish Rack,Home & Kitchen,169.11,5.0,3.7,845.55
+2024-01-08,P1030,Hair Mask,Beauty,43.67,11.0,3.5,480.37
+2024-01-24,P1001,Wireless Headphones,Electronics,238.17,,,1190.85
+2024-01-17,P1016,Socks,Clothing,79.5,4.0,5.0,318.0
+2024-01-09,P1008,Resistance Bands,Sports,13.27,16.0,4.3,212.32
+2024-01-23,P1035,Stuffed Animal,Toys,68.76,7.0,3.0,481.32
+2024-01-20,P1016,Jump Rope,Sports,98.26,4.0,2.7,393.04
+2024-01-07,P1024,Storage Bins,Home & Kitchen,85.98,,,429.9
+2024-01-28,P1003,Bluetooth Speaker,Electronics,165.07,6.0,3.2,990.42
+2024-01-06,P1008,Mouse Pad,Electronics,135.88,6.0,3.4,815.28
+2024-01-03,P1048,Toner,Beauty,73.62,4.0,4.6,294.48
+2024-01-22,P1042,Art Kit,Toys,33.57,7.0,3.9,234.99
+2024-01-18,P1006,Coffee Maker,Home & Kitchen,50.4,6.0,4.5,302.4
+2024-01-29,P1025,The Lean Startup,Books,9.84,18.0,3.3,177.12
+2024-01-23,P1009,Knife Set,Home & Kitchen,129.49,25.0,2.7,3237.25
+2024-01-26,P1018,Lip Balm,Beauty,58.29,10.0,4.4,582.9
+2024-01-04,P1012,Cutting Board,Home & Kitchen,104.2,7.0,4.8,729.4
+2024-01-08,P1006,Cotton T-Shirt,Clothing,58.33,1.0,4.5,58.33
+2024-01-01,P1056,Card Game,Toys,38.01,14.0,4.5,532.14
+2024-01-15,P1018,Toaster,Home & Kitchen,122.23,1.0,4.3,122.23
+2024-01-20,P1021,Puzzle 1000pc,Toys,68.18,5.0,4.6,340.9
+2024-01-10,P1002,Smart Watch,Electronics,175.66,3.0,5.0,526.98
+2024-01-17,P1032,Cycling Gloves,Sports,68.86,5.0,3.8,344.3
+2024-01-27,P1028,Gym Bag,Sports,60.55,,,302.75
+2024-01-05,P1010,Atomic Habits,Books,15.78,3.0,3.7,47.34
+2024-01-15,P1006,Coffee Maker,Home & Kitchen,37.14,3.0,4.8,111.42
+2024-01-05,P1024,Foam Roller,Sports,21.02,,,84.08
+2024-01-25,P1021,Puzzle 1000pc,Toys,36.31,5.0,3.6,181.55
+2024-01-17,P1014,Cap,Clothing,76.93,17.0,5.0,1307.81
+2024-01-27,P1007,LEGO Set,Toys,66.6,2.0,4.3,133.2
+2024-01-10,P1003,Bluetooth Speaker,Electronics,221.1,2.0,3.7,442.2
+2024-01-11,P1006,Cotton T-Shirt,Clothing,42.29,4.0,5.0,169.16
+2024-01-12,P1024,Sunscreen SPF50,Beauty,30.93,9.0,4.2,278.37
+2024-01-28,P1025,The Lean Startup,Books,28.09,8.0,3.5,224.72
+2024-01-07,P1005,USB-C Hub,Electronics,162.13,4.0,4.6,648.52
+2024-01-05,P1030,Hair Mask,Beauty,47.47,5.0,4.9,237.35
+2024-01-20,P1030,Hair Mask,Beauty,14.83,7.0,3.2,103.81
+2024-01-17,P1010,Atomic Habits,Books,29.86,13.0,3.8,388.18
+2024-01-19,P1018,Lip Balm,Beauty,59.33,12.0,4.1,711.96
+2024-01-06,P1015,Deep Learning,Books,35.61,18.0,4.5,640.98
+2024-01-27,P1036,Body Lotion,Beauty,35.18,21.0,4.3,738.78
+2024-01-27,P1005,Python for Data Science,Books,10.74,5.0,3.9,53.7
+2024-01-03,P1007,LEGO Set,Toys,74.83,10.0,3.4,748.3
+2024-01-21,P1005,USB-C Hub,Electronics,67.28,2.0,4.8,134.56
+2024-01-20,P1014,Cap,Clothing,82.15,4.0,3.8,328.6
+2024-01-16,P1006,Face Moisturizer,Beauty,69.72,7.0,4.2,488.04
+2024-01-21,P1030,Hair Mask,Beauty,50.64,3.0,4.2,151.92
+2024-01-08,P1024,Storage Bins,Home & Kitchen,89.25,4.0,3.0,357.0
+2024-01-10,P1049,Science Kit,Toys,30.77,,,184.62
+2024-01-23,P1008,Resistance Bands,Sports,61.42,8.0,4.2,491.36
+2024-01-15,P1003,Bluetooth Speaker,Electronics,198.2,12.0,4.2,2378.4
+2024-01-15,P1032,Cycling Gloves,Sports,91.92,14.0,4.5,1286.88
+2024-01-20,P1012,Sneakers,Clothing,69.78,,,209.34
+2024-01-28,P1012,Sneakers,Clothing,57.44,8.0,4.4,459.52
+2024-01-24,P1036,Body Lotion,Beauty,8.3,20.0,4.3,166.0
+2024-01-13,P1042,Art Kit,Toys,33.84,8.0,3.2,270.72
+2024-01-17,P1012,Sneakers,Clothing,69.86,4.0,3.6,279.44
+2024-01-11,P1010,Atomic Habits,Books,37.98,7.0,3.7,265.86
+2024-01-04,P1016,Socks,Clothing,47.07,3.0,4.3,141.21
+2024-01-08,P1024,Storage Bins,Home & Kitchen,128.54,7.0,3.5,899.78
+2024-01-02,P1004,Denim Jacket,Clothing,41.32,9.0,4.9,371.88
+2024-01-28,P1021,Dish Rack,Home & Kitchen,31.99,4.0,5.0,127.96
+2024-01-08,P1035,Zero to One,Books,20.62,4.0,4.1,82.48
+2024-01-27,P1021,Puzzle 1000pc,Toys,71.41,7.0,3.6,499.87
+2024-01-07,P1018,Toaster,Home & Kitchen,21.24,4.0,4.5,84.96
+2024-01-16,P1021,Puzzle 1000pc,Toys,26.7,5.0,3.1,133.5
+2024-01-16,P1040,Rich Dad Poor Dad,Books,42.8,11.0,3.9,470.8
+2024-01-01,P1024,Storage Bins,Home & Kitchen,49.02,2.0,5.0,98.04
+2024-01-17,P1007,Keyboard,Electronics,111.19,12.0,4.1,1334.28
+2024-01-07,P1016,Jump Rope,Sports,99.92,4.0,4.7,399.68
+2024-01-02,P1030,Thinking Fast and Slow,Books,37.24,4.0,3.9,148.96
+2024-01-16,P1005,USB-C Hub,Electronics,37.45,2.0,3.8,74.9
+2024-01-10,P1040,Rich Dad Poor Dad,Books,21.24,2.0,5.0,42.48
+2024-01-28,P1005,Python for Data Science,Books,32.19,19.0,4.1,611.61
+2024-01-05,P1007,Keyboard,Electronics,148.67,4.0,3.6,594.68
+2024-01-25,P1018,Toaster,Home & Kitchen,39.83,,,159.32
