@@ -3,7 +3,7 @@
 MINI PROJECT : ShopSmart Price-Predictor-ML-Pipeline   
 
 END-TO-END DATA ANALYTICS AND MACHINE LEARNING PROJECT built on a
-synthetic E-commerce dataset of 800 transactions across 7 product categories.
+synthetic E-COMMERCE dataset of 800 transactions across 7 product categories.
 
 
 NAME : SHREEKANTH A GUTTEDAR
