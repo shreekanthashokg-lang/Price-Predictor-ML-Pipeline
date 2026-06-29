@@ -38,7 +38,7 @@ ShopSmart/
 
 ---
 
-## Quick Start
+## QUICK Start
 
 ```bash
 # 1. Install dependencies
