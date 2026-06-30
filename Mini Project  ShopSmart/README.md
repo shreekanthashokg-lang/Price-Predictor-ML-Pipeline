@@ -9,7 +9,7 @@ Synthetic E-COMMERCE Dataset Of 800 TRANSACTIONS Across 7 PRODUCTS Categories.
 NAME : SHREEKANTH A GUTTEDAR
 ---
 
-## PRROJECT Structure
+## PRROJECT STRUCTURE
 
 ```
 ShopSmart/
