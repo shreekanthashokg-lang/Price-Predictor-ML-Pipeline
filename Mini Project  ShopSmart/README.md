@@ -62,7 +62,7 @@ python src/utils.py
 
 ---
 
-## DATASET Columns
+## DATASET COLUMNS
 
 | Column | Type | Description |
 |--------|------|-------------|
