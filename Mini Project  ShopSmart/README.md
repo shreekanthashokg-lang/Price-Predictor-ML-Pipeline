@@ -77,7 +77,7 @@ python src/utils.py
 
 ---
 
-## Model Performance
+## MODEL Performance
 
 | Metric | Value |
 |--------|-------|
