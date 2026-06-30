@@ -90,7 +90,7 @@ python src/utils.py
 
 ---
 
-## Key Design Decisions
+## KEY Design Decisions
 
 - **Pipeline wraps preprocessing** — StandardScaler and OneHotEncoder fit only on training data; zero leakage during CV.
 - **Stratified train/test split** on `price_bin` preserves price-tier distribution in both sets.
