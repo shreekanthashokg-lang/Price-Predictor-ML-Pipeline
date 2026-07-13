@@ -2,7 +2,7 @@
 
 MINI PROJECT : SHOPSMART Price-Predictor-ML-Pipeline   
 
-END-TO-END DATA ANALYTICS AND MACHINE Learning Project Built On a
+END-TO-END DATA ANALYTICS AND MACHINE LEARNING Project Built On a
 Synthetic E-COMMERCE Dataset Of 800 TRANSACTIONS Across 7 PRODUCTS Categories.
 
 
