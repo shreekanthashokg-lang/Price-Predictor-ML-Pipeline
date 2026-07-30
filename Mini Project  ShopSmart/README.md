@@ -100,7 +100,7 @@ python src/utils.py
 
 ---
 
-## LOADING THE MODEL FOR Inference
+## LOADING THE MODEL FOR INFERENCE
 
 ```python
 import joblib, pandas as pd
