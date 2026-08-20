@@ -312,7 +312,7 @@ EDA is performed to understand the underlying characteristics of the e-commerce 
 
 The analysis focuses on:
 
-### Product Analysis
+### PRODUCT ANALYSIS 
 
 * Number of unique products
 * Product-level sales
