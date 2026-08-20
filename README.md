@@ -48,7 +48,7 @@ The entire workflow is implemented as a reusable Python pipeline so that the sam
 
 The main objective of ShopSmart is to demonstrate how raw e-commerce transaction data can be transformed into actionable business insights and an operational machine learning model.
 
-### Primary Objectives
+### PRIMARY OBJECTIVES 
 
 1. Load and validate e-commerce transaction data.
 2. Identify missing values and data-quality issues.
