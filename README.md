@@ -4,7 +4,7 @@
 
 **End-to-End Data Analytics and MACHINE LEARNING Project**
 
-**Author:** Shreekanth A Guttedar
+**Author:** SHREEKANTH A GUTTEDAR
 **Domain:** E-Commerce Analytics | Machine Learning | Predictive Analytics
 **Project Type:** Academic / Portfolio Mini Project
 **Dataset:** Synthetic E-Commerce Transaction Dataset
