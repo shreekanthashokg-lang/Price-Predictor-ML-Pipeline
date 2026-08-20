@@ -22,7 +22,7 @@
 The project combines:
 
 * Data loading and validation
-* Data cleaning
+* DATA CLEANING
 * Exploratory Data Analysis (EDA)
 * Feature engineering
 * Statistical analysis
