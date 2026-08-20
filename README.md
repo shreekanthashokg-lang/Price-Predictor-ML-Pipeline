@@ -2,7 +2,7 @@
 
 ### MINI PROJECT: SHOPSMART PRICE-PREDICTOR ML PIPELINE
 
-**End-to-End Data Analytics and Machine Learning Project**
+**End-to-End Data Analytics and MACHINE LEARNING Project**
 
 **Author:** Shreekanth A Guttedar
 **Domain:** E-Commerce Analytics | Machine Learning | Predictive Analytics
