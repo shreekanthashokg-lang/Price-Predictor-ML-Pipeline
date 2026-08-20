@@ -236,7 +236,7 @@ ShopSmart/
 
 # 📊 DATASET DESCRIPTION
 
-The project uses a synthetic e-commerce transaction dataset containing **800 transaction records**.
+THE PROJECT uses a synthetic e-commerce transaction dataset containing **800 transaction records**.
 
 Each record represents a product transaction/session.
 
