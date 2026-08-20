@@ -470,7 +470,7 @@ price
 
 The model attempts to predict the numerical price of a product.
 
-### Input Features
+### INPUT FEATURES 
 
 ```text
 units_sold
