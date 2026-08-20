@@ -253,7 +253,7 @@ Each record represents a product transaction/session.
 | `customer_rating` | float     | Customer rating from 1.0 to 5.0 |
 | `sales`           | float     | Total transaction sales         |
 
-### Sales Calculation
+### SALES CALCULATION
 
 ```text
 sales = price × units_sold
