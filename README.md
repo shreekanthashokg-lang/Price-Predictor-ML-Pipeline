@@ -240,7 +240,7 @@ THE PROJECT uses a synthetic e-commerce transaction dataset containing **800 tra
 
 Each record represents a product transaction/session.
 
-## Dataset Columns
+## DATASET COLUMNS 
 
 | Column            | Data Type | Description                     |
 | ----------------- | --------- | ------------------------------- |
