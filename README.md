@@ -327,7 +327,7 @@ The analysis focuses on:
 * Average customer rating
 * Category contribution to overall sales
 
-### Customer Rating Analysis
+### CUSTOMER RATING ANALYSIS 
 
 * Rating distribution
 * Average rating
