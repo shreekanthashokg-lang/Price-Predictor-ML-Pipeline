@@ -1,4 +1,4 @@
-# 🛒 ShopSmart — E-Commerce Analytics & Price Prediction
+# 🛒 ShopSmart — E-Commerce Analytics & PRICE PREDICTON 
 
 ### MINI PROJECT: SHOPSMART PRICE-PREDICTOR ML PIPELINE
 
