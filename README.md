@@ -273,7 +273,7 @@ Sales = $150 × 3
 
 # 🏷️ PRODUCT CATEGORIES
 
-The dataset contains products distributed across **7 e-commerce categories**.
+The dataset contains products distributed across **7 E-COMMERCE categories**.
 
 The category information is important because products belonging to different categories can have significantly different pricing patterns.
 
