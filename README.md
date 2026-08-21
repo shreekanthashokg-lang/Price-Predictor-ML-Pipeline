@@ -341,7 +341,7 @@ The analysis focuses on:
 * Category-level price differences
 * Relationship between price and units sold
 
-### Time Analysis
+### TIME ANALYSIS
 
 * Transaction date distribution
 * Daily transaction patterns
