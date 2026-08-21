@@ -334,7 +334,7 @@ The analysis focuses on:
 * Missing ratings
 * Relationship between ratings and sales
 
-### Price Analysis
+### PRICE ANALYSIS
 
 * Price distribution
 * Price tiers
