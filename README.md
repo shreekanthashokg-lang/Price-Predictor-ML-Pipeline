@@ -298,7 +298,7 @@ Before model training, the dataset goes through a validation and cleaning stage.
 * Checking date formatting
 * Verifying sales calculations
 
-### Missing Values
+### MISSING VALUES
 
 `customer_rating` contains approximately **3% nullable values**.
 
