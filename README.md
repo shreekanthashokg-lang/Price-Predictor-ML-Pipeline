@@ -74,7 +74,7 @@ E-COMMERCE platforms generate large amounts of transaction DATA containing infor
 
 * PRODUCTS
 * CATEGORIES 
-* Prices
+* PRICES
 * Units sold
 * Customer ratings
 * Sales
