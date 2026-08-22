@@ -6,7 +6,7 @@
 
 **Author:** SHREEKANTH A GUTTEDAR
 **Domain:** E-Commerce Analytics | Machine Learning | Predictive Analytics
-**Project Type:** Academic / Portfolio Mini Project
+**Project Type:** Academic / Portfolio MINI PROJECT
 **Dataset:** Synthetic E-Commerce Transaction Dataset
 **Records:** 800 Transactions
 **Product Categories:** 7
