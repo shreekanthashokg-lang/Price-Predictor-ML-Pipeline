@@ -319,7 +319,7 @@ The analysis focuses on:
 * Product prices
 * Units sold per product
 
-### Category Analysis
+### CATEGORY ANALYSIS 
 
 * Category sales
 * Average category price
