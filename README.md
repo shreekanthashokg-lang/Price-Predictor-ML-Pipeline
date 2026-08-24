@@ -283,7 +283,7 @@ Category-level information is therefore incorporated into the feature engineerin
 
 # 🧹 DATA PREPROCESSING
 
-Before model training, the dataset goes through a validation and cleaning stage.
+Before MODEL TRAINING, the dataset goes through a validation and cleaning stage.
 
 ### Data validation includes:
 
