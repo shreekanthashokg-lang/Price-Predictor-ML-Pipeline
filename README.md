@@ -238,7 +238,7 @@ ShopSmart/
 
 THE PROJECT USES A SYNTHETIC E-COMMERCE  transaction dataset containing **800 TRANSACTION RECORDS**.
 
-EACH RECORD REPRESENTS a product transaction/session.
+EACH RECORD REPRESENTS A PRODUCT transaction/session.
 
 ## DATASET COLUMNS 
 
