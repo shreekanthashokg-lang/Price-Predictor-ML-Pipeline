@@ -10,7 +10,7 @@
 **Dataset:** Synthetic E-Commerce Transaction Dataset
 **Records:** 800 Transactions
 **Product Categories:** 7
-**ML Task:** PRICE PREDICTION  / Regression
+**ML Task:** PRICE PREDICTION  / REGRESSION
 **Primary Algorithm:** Random Forest Regressor
 
 ---
