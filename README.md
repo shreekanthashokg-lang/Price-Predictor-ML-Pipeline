@@ -285,7 +285,7 @@ Category-level information is therefore incorporated into the feature engineerin
 
 Before MODEL TRAINING, the dataset goes through a validation and cleaning stage.
 
-### Data validation includes:
+### DATA VALIDATION includes:
 
 * Checking dataset dimensions
 * Checking column names
