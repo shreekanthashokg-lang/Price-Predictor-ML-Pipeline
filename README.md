@@ -458,7 +458,7 @@ These features provide the model with broader category-level context instead of 
 
 # 🤖 MACHINE LEARNING PROBLEM
 
-## Problem Type
+## PROBLEM TYPE 
 
 **Supervised Learning — Regression**
 
