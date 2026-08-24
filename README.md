@@ -489,7 +489,7 @@ price_bin
 
 The project uses:
 
-## Random Forest Regressor
+## RANDOM FOREST REGRESSOR
 
 ```text
 RandomForestRegressor
