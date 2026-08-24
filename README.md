@@ -462,7 +462,7 @@ These features provide the model with broader category-level context instead of 
 
 **Supervised Learning — Regression**
 
-### Target Variable
+### TARGET VARIABLE 
 
 ```text
 price
