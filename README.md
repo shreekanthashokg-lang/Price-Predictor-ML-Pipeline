@@ -29,7 +29,7 @@ The PROJECT COMBINED:
 * Sales analytics
 * Customer rating analysis
 * Category-level ANALYSIS
-* Machine learning model development
+* Machine learning MODEL development
 * Cross-validation
 * Model evaluation
 * Model serialization
