@@ -50,7 +50,7 @@ THE MAIN OBJECTIVE  of ShopSmart is to demonstrate how raw e-commerce transactio
 
 ### PRIMARY OBJECTIVES 
 
-1. Load and validate e-commerce transaction data.
+1. Load and validate e-commerce transaction DATA.
 2. Identify missing values and data-quality issues.
 3. Clean and preprocess the dataset.
 4. Analyze product and category-level sales performance.
