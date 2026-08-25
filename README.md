@@ -36,7 +36,7 @@ The project combines:
 * Automated reporting
 * Data visualization
 
-THE PROJECT USES A **synthetic DATASET containing 800 e-commerce transactions across 7 product categories**.
+THE PROJECT USES A **synthetic DATASET containing 800 E-COMMERCE transactions across 7 product categories**.
 
 THE MACHINE LEARNING component treats **`price` as the target variable** and uses transaction, product, category, RATTING, sales, and engineered statistical features to predict the expected product price.
 
