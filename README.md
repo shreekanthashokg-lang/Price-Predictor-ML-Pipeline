@@ -31,9 +31,9 @@ THE PROJECT COMBINED:
 * Category-level ANALYSIS
 * Machine learning MODEL development
 * Cross-validation
-* Model evaluation
-* Model serialization
-* Automated reporting
+* Model Evaluation
+* Model Serialization
+* Automated Reporting
 * DATA VISUALIZATION
 
 THE PROJECT USES A **synthetic DATASET containing 800 E-COMMERCE transactions across 7 product categories**.
