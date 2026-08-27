@@ -21,7 +21,7 @@
 
 THE PROJECT COMBINED:
 
-* Data loading and validation
+* DATA LOADING and VALIDATION
 * DATA CLEANING
 * Exploratory Data Analysis (EDA)
 * Feature engineering
