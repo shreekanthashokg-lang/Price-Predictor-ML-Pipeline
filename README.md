@@ -23,7 +23,7 @@ THE PROJECT COMBINED:
 
 * DATA LOADING and VALIDATION
 * DATA CLEANING
-* Exploratory Data Analysis (EDA)
+* Exploratory DATA ANALYSIS (EDA)
 * Feature engineering
 * Statistical analysis
 * Sales analytics
