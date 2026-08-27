@@ -34,7 +34,7 @@ THE PROJECT COMBINED:
 * Model evaluation
 * Model serialization
 * Automated reporting
-* Data visualization
+* DATA VISUALIZATION
 
 THE PROJECT USES A **synthetic DATASET containing 800 E-COMMERCE transactions across 7 product categories**.
 
