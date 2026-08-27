@@ -64,7 +64,7 @@ THE MAIN OBJECTIVE  of ShopSmart is to demonstrate how raw e-commerce transactio
 12. Save the trained model for future inference.
 13. Generate automated analytical reports.
 14. Produce visualization charts for business analysis.
-15. Maintain a clean and modular project architecture.
+15. Maintain a Clean and MModular Project Architecture.
 
 ---
 
