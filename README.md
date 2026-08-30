@@ -618,7 +618,7 @@ This provides a more stable estimate of model performance than relying only on a
 
 The model is evaluated using three primary regression metrics.
 
-## 1. Mean Absolute Error — MAE
+## 1. MEAN ABSOLUTR ERROR — MAE
 
 MAE measures the average absolute difference between actual and predicted prices.
 
