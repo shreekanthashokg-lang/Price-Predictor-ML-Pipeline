@@ -1150,7 +1150,7 @@ The current project provides a strong foundation, but several improvements can m
 * Category-level drilldowns
 * Real-time sales monitoring
 
-## Deployment Improvements
+## DEPLOYMENT IMPROVEMENT
 
 The model could be deployed through:
 
