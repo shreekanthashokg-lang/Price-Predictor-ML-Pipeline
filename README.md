@@ -907,7 +907,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## 4. Train the model
+## 4.TRAIN THE MODEL
 
 ```bash
 python models/train_model.py
