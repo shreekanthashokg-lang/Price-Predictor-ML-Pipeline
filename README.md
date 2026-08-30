@@ -796,7 +796,7 @@ This script generates analytical reports automatically.
 python reports/generate_report.py
 ```
 
-### Report + visualizations
+### REPORT + Visualizations
 
 ```bash
 python reports/generate_report.py --charts
