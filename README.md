@@ -887,7 +887,7 @@ cd ShopSmart
 
 ## 2. Create a virtual environment
 
-### Windows
+### WINDOWS
 
 ```bash
 python -m venv venv
