@@ -790,7 +790,7 @@ reports/generate_report.py
 
 This script generates analytical reports automatically.
 
-### Text-only report
+### TEXT ONLY REPORT
 
 ```bash
 python reports/generate_report.py
