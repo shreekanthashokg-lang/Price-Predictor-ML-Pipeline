@@ -1121,7 +1121,7 @@ The ShopSmart analytics workflow can help answer questions such as:
 
 The current project provides a strong foundation, but several improvements can make it closer to a production-grade system.
 
-## Machine Learning Improvements
+## MACHINE LEARNING
 
 * Compare Random Forest with XGBoost
 * Compare Random Forest with Gradient Boosting
