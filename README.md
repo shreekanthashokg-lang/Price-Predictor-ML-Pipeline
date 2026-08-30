@@ -636,7 +636,7 @@ A lower MAE indicates better prediction accuracy.
 
 ---
 
-## 2. Root Mean Squared Error — RMSE
+## 2.ROOT MEAN SQUARD ERROR  — RMSE
 
 RMSE gives higher importance to larger prediction errors.
 
