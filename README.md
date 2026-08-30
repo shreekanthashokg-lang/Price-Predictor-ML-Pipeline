@@ -1317,7 +1317,7 @@ Beyond prediction, the project provides automated sales analysis, category-level
 POST GRADUATE
 MCA — Artificial Intelligence & Machine Learning / Data Science
 
-### Project Focus
+### PROJECT FOCUS
 
 ```text
 Data Analytics
