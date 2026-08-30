@@ -926,7 +926,7 @@ models/metrics.json
 python reports/generate_report.py
 ```
 
-## 6. Generate report and charts
+## 6. GENERATE REPORT AND CHARTS 
 
 ```bash
 python reports/generate_report.py --charts
