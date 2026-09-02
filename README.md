@@ -732,7 +732,7 @@ new_row = add_price_bins(new_row)
 new_row = add_category_stats(new_row)
 ```
 
-The final features are selected:
+THE FINAL FEATURES are selected:
 
 ```python
 FEATURES = [
