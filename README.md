@@ -1293,7 +1293,7 @@ This makes it suitable as an **MCA AIML & Data Science portfolio project** becau
 
 The project transforms raw transaction data into meaningful analytical features and uses a **Random Forest Regression pipeline** to predict product prices.
 
-The model currently achieves approximately:
+THE MODEL currently achieves approximately:
 
 ```text
 MAE  ≈ $11
