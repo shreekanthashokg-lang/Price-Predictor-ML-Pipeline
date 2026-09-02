@@ -747,7 +747,7 @@ FEATURES = [
 ]
 ```
 
-The prediction is generated using:
+THE PREDICTION is generated using:
 
 ```python
 predicted_price = pipeline.predict(new_row[FEATURES])
