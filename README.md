@@ -310,7 +310,7 @@ These values are handled during preprocessing so that the machine learning pipel
 
 EDA is performed to understand the underlying characteristics of the e-commerce dataset.
 
-The analysis focuses on:
+THE ANALYSIS FOCUSES ON :
 
 ### PRODUCT ANALYSIS 
 
