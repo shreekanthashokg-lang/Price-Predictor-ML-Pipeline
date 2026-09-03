@@ -80,7 +80,7 @@ E-COMMERCE platforms GENERATE large amounts of transaction DATA containing infor
 * SALES
 * Transaction DATES
 
-Understanding  PRICING patterns can help businesses with:
+Understanding  PRICING PATTERNS can help businesses with:
 
 * Pricing strategy
 * Product positioning
