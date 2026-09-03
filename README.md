@@ -57,7 +57,7 @@ THE MAIN OBJECTIVE  of ShopSmart is to demonstrate how raw E-COMMERCE transactio
 5. Analyze pricing patterns across categories.
 6. Analyze customer ratings.
 7. Create meaningful derived features.
-8. Build a machine learning regression pipeline.
+8. Build a machine learning regression PIPELINE.
 9. Predict product prices using Random Forest Regression.
 10. Evaluate model performance using multiple metrics.
 11. Perform 5-fold cross-validation.
