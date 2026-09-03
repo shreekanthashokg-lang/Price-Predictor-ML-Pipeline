@@ -62,7 +62,7 @@ THE MAIN OBJECTIVE  of ShopSmart is to demonstrate how raw E-COMMERCE transactio
 10. Evaluate model performance using multiple metrics.
 11. Perform 5-fold cross-validation.
 12. Save the trained model for future inference.
-13. Generate automated analytical reports.
+13. Generate automated analytical REPORTS.
 14. Produce visualization charts for business analysis.
 15. Maintain a Clean and MModular Project Architecture.
 
