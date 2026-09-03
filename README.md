@@ -93,7 +93,7 @@ Understanding  PRICING patterns can help businesses with:
 
 ShopSmart demonstrates how machine learning can learn relationships between transaction characteristics and product prices.
 
-For example:
+FOR EXAMPLE:
 
 > Given the category, units sold, customer rating, sales-related information, category statistics, and price tier, can a machine learning model estimate the expected product price?
 
