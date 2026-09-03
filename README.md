@@ -242,7 +242,7 @@ EACH RECORD REPRESENTS A PRODUCT transaction/SESSION.
 
 ## DATASET COLUMNS 
 
-| Column            | DATA TYPE| DESCRIPTION                     |
+| COLUMN            | DATA TYPE| DESCRIPTION                     |
 | ----------------- | --------- | ------------------------------- |
 | `date`            | datetime  | Transaction date                |
 | `product_id`      | string    | Unique product identifier       |
