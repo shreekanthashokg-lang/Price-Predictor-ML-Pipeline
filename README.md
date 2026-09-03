@@ -40,7 +40,7 @@ THE PROJECT USES A **synthetic DATASET containing 800 E-COMMERCE transactions ac
 
 THE MACHINE LEARNING component treats **`price` as the target variable** and uses transaction, product, category, RATTING, sales, and engineered statistical features to predict the expected product price.
 
-The entire workflow is implemented as a reusable Python pipeline so that the same feature engineering and preprocessing logic can be applied during both **model training and inference**.
+THE ENTIRE WORKFLOW is implemented as a reusable Python pipeline so that the same feature engineering and preprocessing logic can be applied during both **model training and inference**.
 
 ---
 
