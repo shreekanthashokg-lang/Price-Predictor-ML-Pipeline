@@ -9,7 +9,7 @@
 **Project Type:** ACADEMIC / PORTFOLIO  MINI PROJECT
 **Dataset:** Synthetic E-Commerce Transaction DATASET
 **Records:** 800 Transactions
-**Product Categories:** 7
+**Product CATAGORIES:** 7
 **ML Task:** PRICE PREDICTION  / REGRESSION
 **Primary Algorithm:** RANDOM FOREST REGRESSOR
 
