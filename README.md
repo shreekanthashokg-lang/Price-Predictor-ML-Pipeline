@@ -31,7 +31,7 @@ THE PROJECT COMBINED:
 * Category-level ANALYSIS
 * Machine learning MODEL development
 * Cross-validation
-* Model Evaluation
+* Model EVALUATION
 * Model Serialization
 * Automated REPORTING
 * DATA VISUALIZATION
