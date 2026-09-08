@@ -33,7 +33,7 @@ THE PROJECT COMBINED:
 * Cross-validation
 * Model Evaluation
 * Model Serialization
-* Automated Reporting
+* Automated REPORTING
 * DATA VISUALIZATION
 
 THE PROJECT USES A **synthetic DATASET containing 800 E-COMMERCE TRANSACTIONS Across 7 product categories**.
