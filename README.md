@@ -25,7 +25,7 @@ THE PROJECT COMBINED:
 * DATA CLEANING
 * Exploratory DATA ANALYSIS (EDA)
 * Feature engineering
-* Statistical analysis
+* Statistical ANALYSIS
 * Sales analytics
 * Customer rating analysis
 * Category-level ANALYSIS
