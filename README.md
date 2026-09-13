@@ -1315,7 +1315,7 @@ Beyond prediction, the project provides automated sales analysis, category-level
 
 **Shreekanth A Guttedar**
 POST GRADUATE 
-MCA — ARTIFICIAL INTELLIGENCE & MACHINE LEARNING / DATA SCIENCE
+MASTERS IN : ARTIFICIAL INTELLIGENCE & MACHINE LEARNING / DATA SCIENCE
 
 ### PROJECT FOCUS
 
