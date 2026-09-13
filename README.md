@@ -76,7 +76,7 @@ E-COMMERCE PLATFORMS GENERATE large amounts of transaction DATA containing infor
 * CATEGORIES 
 * PRICES
 * UNITS SOLD
-* Customer ratings
+* CUSTOMER RATTINGS
 * SALES
 * Transaction DATES
 
