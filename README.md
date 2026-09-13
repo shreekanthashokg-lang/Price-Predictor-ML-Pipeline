@@ -26,7 +26,7 @@ THE PROJECT COMBINED:
 * Exploratory DATA ANALYSIS (EDA)
 * Feature engineering
 * Statistical ANALYSIS
-* Sales analytics
+* SALES ANALYTICS
 * Customer rating analysis
 * Category-level ANALYSIS
 * Machine learning MODEL development
