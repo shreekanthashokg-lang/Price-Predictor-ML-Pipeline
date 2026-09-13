@@ -78,7 +78,7 @@ E-COMMERCE PLATFORMS GENERATE large amounts of transaction DATA containing infor
 * UNITS SOLD
 * CUSTOMER RATTINGS
 * SALES
-* Transaction DATES
+* TRANSACTION DATES
 
 Understanding  PRICING PATTERNS can help businesses with:
 
