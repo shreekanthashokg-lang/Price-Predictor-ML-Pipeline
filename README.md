@@ -30,7 +30,7 @@ THE PROJECT COMBINED:
 * Customer rating analysis
 * Category-level ANALYSIS
 * Machine learning MODEL development
-* Cross-validation
+* CROSS-VALIDATION
 * Model EVALUATION
 * Model Serialization
 * Automated REPORTING
