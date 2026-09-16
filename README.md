@@ -82,7 +82,7 @@ E-COMMERCE PLATFORMS GENERATE large amounts of transaction DATA containing infor
 
 Understanding  PRICING PATTERNS can help businesses with:
 
-* Pricing strategy
+* PRICING STRATERGIES
 * Product positioning
 * Category analysis
 * Revenue optimization
