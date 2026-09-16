@@ -11,7 +11,7 @@
 **Records:** 800 Transactions
 **Product CATAGORIES:** 7
 **ML Task:** PRICE PREDICTION  / REGRESSION
-**Primary Algorithm:** RANDOM FOREST REGRESSOR
+**PRIMARY ALGORITHM:** RANDOM FOREST REGRESSOR
 
 ---
 
