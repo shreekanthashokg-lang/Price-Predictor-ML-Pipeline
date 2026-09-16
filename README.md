@@ -17,7 +17,7 @@
 
 ## 📌 PROJECT OVERVIEW
 
-**ShopSmart** is an end-to-end E-COMMERCE ANALYTICS AND MACHINE Learning PROJECT designed to Analyze transaction-level shopping data and build a MACHINE LEARNING MODEL capable of predicting product prices.
+**ShopSmart** is AND END-TO-END E-COMMERCE ANALYTICS AND MACHINE Learning PROJECT designed to Analyze transaction-level shopping data and build a MACHINE LEARNING MODEL capable of predicting product prices.
 
 THE PROJECT COMBINED:
 
