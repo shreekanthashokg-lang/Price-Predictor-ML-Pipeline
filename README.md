@@ -101,7 +101,7 @@ This project answers that question using a supervised regression approach.
 
 ---
 
-# 🔄 END-TO-END PROJECT WORKFLOW
+# 🔄 WORKFLOW
 
 ```text
                  ┌──────────────────────┐
