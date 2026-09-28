@@ -91,7 +91,7 @@ Understanding  PRICING PATTERNS can help businesses with:
 * Market analysis
 * Demand-related decision making
 
-ShopSmart demonstrates how machine learning can learn relationships between transaction characteristics and product prices.
+SHOPSMART DEMONSTRATES HOW MACHINE LEARNING can learn relationships between transaction characteristics and product prices.
 
 FOR EXAMPLE:
 
