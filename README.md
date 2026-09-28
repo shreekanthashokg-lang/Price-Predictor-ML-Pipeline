@@ -68,7 +68,7 @@ THE MAIN OBJECTIVE  of ShopSmart is to demonstrate how raw E-COMMERCE transactio
 
 ---
 
-# 💼 BUSINESS PROBLEM
+# 💼 BASIC BUSINESS PROBLEM
 
 E-COMMERCE PLATFORMS GENERATE large amounts of transaction DATA containing information ABOUT:
 
