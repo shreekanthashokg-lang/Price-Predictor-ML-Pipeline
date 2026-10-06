@@ -1257,7 +1257,7 @@ This project demonstrates practical knowledge of:
 
 # 🏆 PORTFOLIO VALUE
 
-ShopSmart demonstrates an end-to-end workflow rather than only showing a machine learning algorithm.
+ShopSmart DEMONSTRATES AN END-TO-END  workflow rather than only showing a machine learning algorithm.
 
 The project covers the complete lifecycle:
 
