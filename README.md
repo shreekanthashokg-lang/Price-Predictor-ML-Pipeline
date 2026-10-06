@@ -91,7 +91,7 @@ UNDERSTANDING  PRICING PATTERNS CAN HELP BUSINESSES WITH :
 * Inventory planning
 * Product comparison
 * Market analysis
-* Demand-related decision making
+* Demand-related DECISION MAKING
 
 SHOPSMART DEMONSTRATES HOW MACHINE LEARNING can learn relationships between transaction characteristics and product prices.
 
