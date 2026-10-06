@@ -82,7 +82,7 @@ containing information ABOUT:
 * SALES
 * TRANSACTION DATES
 
-Understanding  PRICING PATTERNS can help businesses with:
+UNDERSTANDING  PRICING PATTERNS CAN HELP BUSINESSES WITH :
 
 * PRICING STRATERGIES
 * Product positioning
