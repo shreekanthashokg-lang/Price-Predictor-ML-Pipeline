@@ -72,7 +72,7 @@ ShopSmart IS TO DEMONSTRATE HOW RAW  E-COMMERCE TRANSACTION DATA can be transfor
 # 💼 BASIC BUSINESS PROBLEM
 
 E-COMMERCE PLATFORMS GENERATE LARGE AM0UNTS OF TRANSACTION DATA
-containing information ABOUT:
+containing information ABOUT :
 
 * PRODUCTS
 * CATEGORIES 
@@ -97,7 +97,7 @@ SHOPSMART DEMONSTRATES HOW MACHINE LEARNING can learn relationships between tran
 
 FOR EXAMPLE:
 
-> Given the category, units sold, customer rating, sales-related information, category statistics, and price tier, can a machine learning model estimate the expected product price?
+> GIVEN THE CATEGORY, Units Sold, Customer Rating, Sales-Related Information, Category Statistics, AND Price tier, can a machine learning model estimate the expected product price?
 
 This project answers that question using a supervised regression approach.
 
