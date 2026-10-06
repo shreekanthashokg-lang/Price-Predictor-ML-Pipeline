@@ -47,7 +47,7 @@ THE ENTIRE WORKFLOW is implemented as a reusable Python pipeline so that the sam
 # 🎯 PROJECT OBJECTIVES
 
 THE MAIN OBJECTIVE 
-ShopSmart IS TO DEMONSTRATE HOW RAW  E-COMMERCE transaction data can be transformed into actionable business insights and an operational machine learning model.
+ShopSmart IS TO DEMONSTRATE HOW RAW  E-COMMERCE TRANSACTION DATA can be transformed into actionable business insights and an operational machine learning model.
 
 ### PRIMARY OBJECTIVES 
 
