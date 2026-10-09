@@ -310,7 +310,7 @@ These values are handled during preprocessing so that the machine learning pipel
 
 # 🔎 EXPLORATORY DATA ANALYSIS
 
-EDA is performed to understand the underlying characteristics of the e-commerce dataset.
+EDA is performed to understand the underlying characteristics of the E-COMMERCE DATASET.
 
 THE ANALYSIS FOCUSES ON :
 
