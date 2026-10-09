@@ -99,7 +99,7 @@ FOR EXAMPLE:
 
 > GIVEN THE CATEGORY, Units Sold, Customer Rating, Sales-Related Information, Category Statistics, AND Price tier, can a machine learning model estimate the expected product price?
 
-This project answers that question using a supervised regression approach.
+THIS PROJECT ANSWERS THAT  Question using a supervised regression approach.
 
 ---
 
