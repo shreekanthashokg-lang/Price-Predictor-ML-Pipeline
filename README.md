@@ -64,7 +64,7 @@ ShopSmart IS TO DEMONSTRATE HOW RAW  E-COMMERCE TRANSACTION DATA CAN BE TRANSFOR
 11. Perform 5-fold cross-validation.
 12. Save the trained model for future inference.
 13. Generate automated analytical REPORTS.
-14. Produce visualization charts for business analysis.
+14. PRODUCE VISUALIZATION Charts FOR ANALYSIS.
 15. Maintain a Clean and MModular Project ARCHITECTURE.
 
 ---
