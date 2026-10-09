@@ -316,7 +316,7 @@ THE ANALYSIS FOCUSES ON :
 
 ### PRODUCT ANALYSIS 
 
-* Number of unique products
+* NUMBER OF UNIQUE OF Products
 * Product-level sales
 * Product prices
 * Units sold per product
