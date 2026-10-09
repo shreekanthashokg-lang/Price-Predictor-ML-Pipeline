@@ -279,7 +279,7 @@ The DATASET CONTAINS products distributed across **7 E-COMMERCE categories**.
 
 The category information is important because products belonging to different categories can have significantly different pricing patterns.
 
-Category-level information is therefore incorporated into the feature engineering process.
+CATEGORY-Level Information is therefore incorporated into the feature engineering process.
 
 ---
 
