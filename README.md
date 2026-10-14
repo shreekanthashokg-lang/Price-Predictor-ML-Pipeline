@@ -410,7 +410,7 @@ These features allow the model to capture potential time-related patterns.
 
 Price values are divided into meaningful price tiers.
 
-For example:
+FOR EXAMPLE:
 
 ```text
 Low Price
