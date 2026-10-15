@@ -296,7 +296,7 @@ BEFORE MODEL TRAINING, THE DATASET GOES THROUGH A VALIDATIO AND CLEANING STAGE.
 * Checking duplicate records
 * Checking invalid numerical values
 * Checking category consistency
-* Checking rating ranges
+* CHECKING RATE CHANGES
 * Checking date formatting
 * Verifying sales calculations
 
