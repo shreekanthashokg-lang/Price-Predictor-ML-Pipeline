@@ -392,7 +392,7 @@ src/features.py
 
 ## 📅 DATE FEATURES
 
-The transaction date can be transformed into useful temporal features such as:
+THE TRANSACTION DATE CAN BE  transformed into useful temporal features such as:
 
 ```text
 year
