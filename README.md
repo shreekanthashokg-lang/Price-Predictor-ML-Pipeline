@@ -323,7 +323,7 @@ THE ANALYSIS FOCUSES ON :
 
 ### CATEGORY ANALYSIS 
 
-* Category sales
+* CATEGORY SALES
 * Average category price
 * Total units sold by category
 * Average customer rating
