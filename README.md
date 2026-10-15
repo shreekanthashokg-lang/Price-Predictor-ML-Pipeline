@@ -345,7 +345,7 @@ THE ANALYSIS FOCUSES ON :
 
 ### TIME ANALYSIS
 
-* Transaction date distribution
+* TRANSACTION DATE DISTRIBUTION 
 * Daily transaction patterns
 * Date-based feature generation
 
