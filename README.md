@@ -287,7 +287,7 @@ CATEGORY-Level Information is therefore incorporated into the feature engineerin
 
 BEFORE MODEL TRAINING, THE DATASET GOES THROUGH A VALIDATIO AND CLEANING STAGE.
 
-### DATA VALIDATION includes:
+### DATA VALIDATION INCLUDES :
 
 * Checking dataset dimensions
 * Checking column names
