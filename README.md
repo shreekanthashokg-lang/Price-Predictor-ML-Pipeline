@@ -516,7 +516,7 @@ It also provides a robust baseline for tabular regression problems.
 
 # 🔄 MACHINE LEARNING PIPELINE
 
-THE PROJECT USES a Scikit-learn Pipeline.
+THE PROJECT USES A SCIKIT-LEARN PIPELINE.
 
 Conceptually:
 
