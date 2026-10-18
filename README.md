@@ -1096,7 +1096,7 @@ The final project provides:
 * 8 analytical charts
 * Model metrics JSON
 
-### Deployment Readiness
+### DEPLOYMENT READINESS 
 
 * Serialized model
 * Reusable inference pipeline
