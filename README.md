@@ -713,7 +713,7 @@ pipeline = joblib.load("models/model.pkl")
 
 A new transaction can be passed through the same feature engineering workflow.
 
-Example input:
+EXAMPLE INPUTS :
 
 ```python
 new_row = pd.DataFrame([{
