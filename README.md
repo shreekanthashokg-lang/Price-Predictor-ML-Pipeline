@@ -570,7 +570,7 @@ This produces a more reliable estimate of model performance.
 
 # 📊 TRAIN / TEST SPLIT
 
-The dataset is divided into training and testing sets.
+THE DATASET IS DIVIDED INTO TRAINING AND TESTING SETS.
 
 A stratified split is used based on:
 
