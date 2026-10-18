@@ -1034,7 +1034,7 @@ This prevents test information from influencing model training.
 
 The same feature engineering logic is used during training and inference.
 
-## 5. Stateless Functions
+## 5. STATELESS FUNCTIONS 
 
 Functions in `src/` are designed to accept DataFrames and return transformed DataFrames without unnecessary in-place mutation.
 
