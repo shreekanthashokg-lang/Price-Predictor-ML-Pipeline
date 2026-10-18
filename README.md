@@ -646,7 +646,7 @@ RMSE gives higher importance to larger prediction errors.
 RMSE = √Mean((Actual - Predicted)²)
 ```
 
-Current expected performance:
+CURRENT EXPECTED PERFORMANCE : 
 
 ```text
 Test RMSE ≈ $15
