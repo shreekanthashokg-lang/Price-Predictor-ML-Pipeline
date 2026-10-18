@@ -518,7 +518,7 @@ It also provides a robust baseline for tabular regression problems.
 
 THE PROJECT USES A SCIKIT-LEARN PIPELINE.
 
-Conceptually:
+CONCEPTUALLY:
 
 ```text
 Raw Features
