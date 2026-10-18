@@ -402,7 +402,7 @@ day_of_week
 week_of_year
 ```
 
-These features allow the model to capture potential time-related patterns.
+THESE FEATURES ALLOW THE MODEL TO  capture potential time-related patterns.
 
 ---
 
