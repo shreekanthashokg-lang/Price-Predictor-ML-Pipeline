@@ -261,7 +261,7 @@ EACH RECORD REPRESENTS A PRODUCT TRANSACTION/SESSION.
 sales = price × units_sold
 ```
 
-Example:
+EXAMPLE :
 
 ```text
 Price = $150
@@ -302,7 +302,7 @@ BEFORE MODEL TRAINING, THE DATASET GOES THROUGH A VALIDATIO AND CLEANING STAGE.
 
 ### MISSING VALUES
 
-`customer_rating` contains approximately **3% nullable values**.
+`customer_rating` CONTAINS APPROXIMATELY **3% nullable values**.
 
 These values are handled during preprocessing so that the machine learning pipeline can safely process the dataset.
 
