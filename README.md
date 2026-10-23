@@ -421,7 +421,7 @@ Premium Price
 
 The resulting `price_bin` feature represents the relative pricing tier of a transaction.
 
-This feature can help capture nonlinear pricing relationships.
+THIS FEATURE CAN HELP CAPTURE NONLINEAR PRICING RELATIONSHIPS. 
 
 ---
 
