@@ -658,7 +658,7 @@ Lower RMSE indicates fewer large prediction errors.
 
 ## 3. R² SCORE
 
-R² measures how much of the variation in the target variable is explained by the model.
+R² MEASURES HOW MUCH OF THE VARIATION IN THE TARGET VARIABLE IS EXPLAINED BY THE MODEL. 
 
 Current expected result:
 
