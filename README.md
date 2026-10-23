@@ -355,7 +355,7 @@ THE ANALYSIS FOCUSES ON :
 
 The project contains **8 visualization functions** designed to communicate important business insights.
 
-Possible analytical visualizations include:
+POSSIBLE ANALYTICAL VISUALIZATIONS INCLUDES :
 
 1. Sales by Category
 2. Average Price by Category
