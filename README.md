@@ -304,7 +304,7 @@ BEFORE MODEL TRAINING, THE DATASET GOES THROUGH A VALIDATIO AND CLEANING STAGE.
 
 `customer_rating` CONTAINS APPROXIMATELY **3% nullable values**.
 
-These values are handled during preprocessing so that the machine learning pipeline can safely process the dataset.
+THESE VALUES ARE HANDLED DURING PREPROCESSING SO THAT THE MACHINE LEARNING  pipeline can safely process the dataset.
 
 ---
 
